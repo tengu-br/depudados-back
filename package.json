@@ -19,6 +19,7 @@
   "homepage": "https://github.com/tengu-br/depudados-back#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "date-and-time": "^1.0.0",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "node-fetch": "^2.6.1",
