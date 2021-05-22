@@ -17,54 +17,33 @@ const testData = require('../testData/testingData.json')
  6) adicionar total, média, maior e menor gasto do parlamentar
  7) buscar proposições com autoria de cada um dos deputados nos últimos 30 dias
  8) compilar alguns dados sobre essas proposições
+ 8) preparar dados para a página de presença
 */
-router.post('/testePresenca/', async (req, res) => {
+router.post('/dailyRun', async (req, res) => {
   req.setTimeout(1000 * 60 * 60 * 3); // 3 Horas
 
-  // Passo (1)
-  console.log('Começando o primeiro passo...')
-  console.time('1')
-  var lista = await getDeputadosAtuais()
-  console.log('Primeiro passo Finalizado!')
-  console.timeEnd('1')
-  // Passo (2)
-  console.log('Começando o segundo passo...')
-  console.time('2')
-  lista = await addPresenca(lista)
-  console.log('Segundo passo Finalizado!')
-  console.timeEnd('2')
-  // Passo (3)
-  console.log('Começando o terceiro passo...')
-  console.time('3')
-  lista = await compilePresenca(lista)
-  console.log('Terceiro passo Finalizado!')
-  console.timeEnd('3')
-  // Passo (4)
-  console.log('Começando o quarto passo...')
-  console.time('4')
-  lista = await addInfo(lista)
-  console.log('Quarto passo Finalizado!')
-  console.timeEnd('4')
-  // Passo (5)
-  console.log('Começando o quinto passo...')
-  console.time('5')
-  lista = await getGastos(lista)
-  console.log('Quinto passo Finalizado!')
-  console.timeEnd('5')
-  // Passo (6)
-  console.log('Começando o sexto passo...')
-  console.time('6')
-  lista = await compileGastos(lista)
-  console.log('Sexto passo Finalizado!')
-  console.timeEnd('6')
-  // Passo (7)
-  console.log('Começando o sétimo passo...')
-  console.time('7')
-  lista = await getProposicoes(lista)
-  console.log('Sétimo passo Finalizado!')
-  console.timeEnd('7')
+  var lista, presencaPageData
 
-  res.send(lista)
+  // Passo (0)
+  lista = testData
+  // Passo (1) 316.562ms
+  // lista = await getDeputadosAtuais()
+  // Passo (2) 1928087.145ms
+  // lista = await addPresenca(lista)
+  // Passo (3) 1.394ms
+  // lista = await compilePresenca(lista)
+  // Passo (4) 107161.711ms
+  // lista = await addInfo(lista)
+  // Passo (5) 2804803.560ms
+  // lista = await getGastos(lista)
+  // Passo (6) 25.332ms
+  // lista = await compileGastos(lista)
+  // Passo (7) 102623.380ms
+  // lista = await getProposicoes(lista)
+  // Passo (8)
+  presencaPageData = buildPresencaPageData(lista)
+
+  res.send(presencaPageData)
 })
 
 const getDeputadosAtuais = async () => {
@@ -272,7 +251,7 @@ const compileGastos = (lista) => {
       gastoTotal += mes.valor
     })
 
-    if(gastoTotal>0){
+    if (gastoTotal > 0) {
       gastoMedio = gastoTotal / mesesComGastos
     }
 
@@ -317,4 +296,136 @@ const getProposicoes = async (lista) => {
   return novaLista
 }
 
+const buildPresencaPageData = (lista) => {
+  var presencaMedia, deputadoPresencaMenor, deputadoPresencaMaior, presencaTotal, quantidadeDeputados, presencaPorPartido, listaCompleta
+
+  // Ordenando por presenca
+  lista.sort((a, b) => (a.presencaSessoes > b.presencaSessoes) ? 1 : ((b.presencaSessoes > a.presencaSessoes) ? -1 : 0))
+
+  listaDeputadosPioresPresencas = lista.slice(0, 10)
+
+  /*
+   Essas váriaveis de deputadoPresencaMenor e deputadoPresencaMaior passam por uma verificacao adicional: ver
+   se o deputado já está em exercício há mais de um mês. Isso acontece para previnir que o deputado mais
+   presente seja um que só teve uma sessão e compareceu nela. Ou que o mais faltão seja o que só teve 2 sessões
+   e faltou uma. Por isso é melhor não simplesmente pegar o lista[0] depois do sort para o deputado com
+   a pior presenca! (ou lista[lista.length] para o melhor)
+  */
+  deputadoPresencaMenor = lista[0]
+  deputadoPresencaMaior = lista[0]
+  listaCompleta = []
+  presencaMedia = 0
+  presencaTotal = 0
+  quantidadeDeputados = 0
+  presencaPorUnidadeFederativa = {
+    'AC': { nome: 'Acre', qtdDeputados: 0, somaPresenca: 0 },
+    'AL': { nome: 'Alagoas', qtdDeputados: 0, somaPresenca: 0 },
+    'AP': { nome: 'Amapá', qtdDeputados: 0, somaPresenca: 0 },
+    'AM': { nome: 'Amazonas', qtdDeputados: 0, somaPresenca: 0 },
+    'BA': { nome: 'Bahia', qtdDeputados: 0, somaPresenca: 0 },
+    'CE': { nome: 'Ceará', qtdDeputados: 0, somaPresenca: 0 },
+    'DF': { nome: 'Distrito Federal', qtdDeputados: 0, somaPresenca: 0 },
+    'ES': { nome: 'Espírito Santo', qtdDeputados: 0, somaPresenca: 0 },
+    'GO': { nome: 'Goiás', qtdDeputados: 0, somaPresenca: 0 },
+    'MA': { nome: 'Maranhão', qtdDeputados: 0, somaPresenca: 0 },
+    'MT': { nome: 'Mato Grosso', qtdDeputados: 0, somaPresenca: 0 },
+    'MS': { nome: 'Mato Grosso do Sul', qtdDeputados: 0, somaPresenca: 0 },
+    'MG': { nome: 'Minas Gerais', qtdDeputados: 0, somaPresenca: 0 },
+    'PA': { nome: 'Pará', qtdDeputados: 0, somaPresenca: 0 },
+    'PB': { nome: 'Paraíba', qtdDeputados: 0, somaPresenca: 0 },
+    'PR': { nome: 'Paraná', qtdDeputados: 0, somaPresenca: 0 },
+    'PE': { nome: 'Pernambuco', qtdDeputados: 0, somaPresenca: 0 },
+    'PI': { nome: 'Piauí', qtdDeputados: 0, somaPresenca: 0 },
+    'RJ': { nome: 'Rio de Janeiro', qtdDeputados: 0, somaPresenca: 0 },
+    'RN': { nome: 'Rio Grande do Norte', qtdDeputados: 0, somaPresenca: 0 },
+    'RS': { nome: 'Rio Grande do Sul', qtdDeputados: 0, somaPresenca: 0 },
+    'RO': { nome: 'Rondônia', qtdDeputados: 0, somaPresenca: 0 },
+    'RR': { nome: 'Roraima', qtdDeputados: 0, somaPresenca: 0 },
+    'SC': { nome: 'Santa Catarina', qtdDeputados: 0, somaPresenca: 0 },
+    'SP': { nome: 'São Paulo', qtdDeputados: 0, somaPresenca: 0 },
+    'SE': { nome: 'Sergipe', qtdDeputados: 0, somaPresenca: 0 },
+    'TO': { nome: 'Tocantins', qtdDeputados: 0, somaPresenca: 0 },
+  }
+
+  presencaPorPartido = {
+    'MDB': { somaPresenca: 0, qtdDeputados: 0 },
+    'PTB': { somaPresenca: 0, qtdDeputados: 0 },
+    'PDT': { somaPresenca: 0, qtdDeputados: 0 },
+    'PT': { somaPresenca: 0, qtdDeputados: 0 },
+    'DEM': { somaPresenca: 0, qtdDeputados: 0 },
+    'PCdoB': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSB': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSDB': { somaPresenca: 0, qtdDeputados: 0 },
+    'PTC': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSC': { somaPresenca: 0, qtdDeputados: 0 },
+    'PMN': { somaPresenca: 0, qtdDeputados: 0 },
+    'CIDADANIA': { somaPresenca: 0, qtdDeputados: 0 },
+    'PV': { somaPresenca: 0, qtdDeputados: 0 },
+    'AVANTE': { somaPresenca: 0, qtdDeputados: 0 },
+    'PP': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSTU': { somaPresenca: 0, qtdDeputados: 0 },
+    'PCB': { somaPresenca: 0, qtdDeputados: 0 },
+    'PRTB': { somaPresenca: 0, qtdDeputados: 0 },
+    'DC': { somaPresenca: 0, qtdDeputados: 0 },
+    'PCO': { somaPresenca: 0, qtdDeputados: 0 },
+    'PODE': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSL': { somaPresenca: 0, qtdDeputados: 0 },
+    'REPUBLICANOS': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSOL': { somaPresenca: 0, qtdDeputados: 0 },
+    'PL': { somaPresenca: 0, qtdDeputados: 0 },
+    'PSD': { somaPresenca: 0, qtdDeputados: 0 },
+    'PATRIOTA': { somaPresenca: 0, qtdDeputados: 0 },
+    'PROS': { somaPresenca: 0, qtdDeputados: 0 },
+    'SOLIDARIEDADE': { somaPresenca: 0, qtdDeputados: 0 },
+    'NOVO': { somaPresenca: 0, qtdDeputados: 0 },
+    'REDE': { somaPresenca: 0, qtdDeputados: 0 },
+    'PMB': { somaPresenca: 0, qtdDeputados: 0 },
+    'UP': { somaPresenca: 0, qtdDeputados: 0 },
+  }
+
+  lista.map(deputado => {
+
+    if (deputadoPresencaMenor.presencaSessoes > deputado.presencaSessoes && date.subtract(new Date(), new Date(deputado.ultimoStatus)).toDays() > 31) {
+      deputadoPresencaMenor = deputado
+    }
+    if (deputadoPresencaMaior.presencaSessoes < deputado.presencaSessoes && date.subtract(new Date(), new Date(deputado.ultimoStatus)).toDays() > 31) {
+      deputadoPresencaMaior = deputado
+    }
+
+    presencaPorUnidadeFederativa[deputado.siglaUf] = {
+      ...presencaPorUnidadeFederativa[deputado.siglaUf],
+      somaPresenca: presencaPorUnidadeFederativa[deputado.siglaUf].somaPresenca + deputado.presencaSessoes,
+      qtdDeputados: presencaPorUnidadeFederativa[deputado.siglaUf].qtdDeputados + 1
+    }
+
+    presencaPorPartido[deputado.siglaPartido] = {
+      somaPresenca: presencaPorPartido[deputado.siglaPartido].somaPresenca + deputado.presencaSessoes,
+      qtdDeputados: presencaPorPartido[deputado.siglaPartido].qtdDeputados + 1
+    }
+
+    listaCompleta.push({
+      nome: deputado.nomeEleitoral,
+      partido: deputado.siglaPartido,
+      uf: deputado.siglaUf,
+      presencaSessoes: deputado.presencaSessoes
+    })
+
+    presencaTotal += deputado.presencaSessoes
+    quantidadeDeputados++
+  });
+
+  presencaMedia = presencaTotal / quantidadeDeputados
+
+  return ({
+    listaCompleta,
+    presencaPorPartido,
+    presencaPorUnidadeFederativa,
+    deputadoPresencaMenor,
+    deputadoPresencaMaior,
+    presencaMedia,
+    listaDeputadosPioresPresencas,
+  })
+}
+
 module.exports = router
+
