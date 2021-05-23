@@ -18,11 +18,12 @@ const testData = require('../testData/testingData.json')
  7) buscar proposições com autoria de cada um dos deputados nos últimos 30 dias
  8) compilar alguns dados sobre essas proposições
  8) preparar dados para a página de presença
+ 9) preparar dados para a página de gastos
 */
 router.post('/dailyRun', async (req, res) => {
   req.setTimeout(1000 * 60 * 60 * 3); // 3 Horas
 
-  var lista, presencaPageData
+  var lista, aux
 
   // Passo (0)
   lista = testData
@@ -41,9 +42,11 @@ router.post('/dailyRun', async (req, res) => {
   // Passo (7) 102623.380ms
   // lista = await getProposicoes(lista)
   // Passo (8)
-  presencaPageData = buildPresencaPageData(lista)
+  // lista = buildPresencaPageData(lista)
+  // Passo (9)
+  aux = buildGastosPageData(lista)
 
-  res.send(presencaPageData)
+  res.send(aux)
 })
 
 const getDeputadosAtuais = async () => {
@@ -302,7 +305,7 @@ const buildPresencaPageData = (lista) => {
   // Ordenando por presenca
   lista.sort((a, b) => (a.presencaSessoes > b.presencaSessoes) ? 1 : ((b.presencaSessoes > a.presencaSessoes) ? -1 : 0))
 
-  listaDeputadosPioresPresencas = lista.slice(0, 10)
+  var listaDeputadosPioresPresencas = lista.slice(0, 10)
 
   /*
    Essas váriaveis de deputadoPresencaMenor e deputadoPresencaMaior passam por uma verificacao adicional: ver
@@ -424,6 +427,136 @@ const buildPresencaPageData = (lista) => {
     deputadoPresencaMaior,
     presencaMedia,
     listaDeputadosPioresPresencas,
+  })
+}
+
+const buildGastosPageData = (lista) => {
+  var gastoMedio, deputadoGastoMenor, deputadoGastoMaior, gastoMedioTotal, quantidadeDeputados, gastoPorPartido, listaCompleta
+
+  // Ordenando por gastoMedio
+  lista.sort((a, b) => (a.gastoMedio > b.gastoMedio) ? -1 : ((b.gastoMedio > a.gastoMedio) ? 1 : 0))
+
+  const gastoMediano = lista[Math.round(lista.length / 2)].gastoMedio
+
+  var listaDeputadosMaioresGastos = lista.slice(0, 10)
+
+  // Ver comentários da função buildPresencaPageData
+  deputadoGastoMenor = lista[0]
+  deputadoGastoMaior = lista[0]
+  listaCompleta = []
+  gastoMedio = 0
+  gastoMedioTotal = 0
+  quantidadeDeputados = 0
+  gastosPorUnidadeFederativa = {
+    'AC': { nome: 'Acre', qtdDeputados: 0, somaGastos: 0 },
+    'AL': { nome: 'Alagoas', qtdDeputados: 0, somaGastos: 0 },
+    'AP': { nome: 'Amapá', qtdDeputados: 0, somaGastos: 0 },
+    'AM': { nome: 'Amazonas', qtdDeputados: 0, somaGastos: 0 },
+    'BA': { nome: 'Bahia', qtdDeputados: 0, somaGastos: 0 },
+    'CE': { nome: 'Ceará', qtdDeputados: 0, somaGastos: 0 },
+    'DF': { nome: 'Distrito Federal', qtdDeputados: 0, somaGastos: 0 },
+    'ES': { nome: 'Espírito Santo', qtdDeputados: 0, somaGastos: 0 },
+    'GO': { nome: 'Goiás', qtdDeputados: 0, somaGastos: 0 },
+    'MA': { nome: 'Maranhão', qtdDeputados: 0, somaGastos: 0 },
+    'MT': { nome: 'Mato Grosso', qtdDeputados: 0, somaGastos: 0 },
+    'MS': { nome: 'Mato Grosso do Sul', qtdDeputados: 0, somaGastos: 0 },
+    'MG': { nome: 'Minas Gerais', qtdDeputados: 0, somaGastos: 0 },
+    'PA': { nome: 'Pará', qtdDeputados: 0, somaGastos: 0 },
+    'PB': { nome: 'Paraíba', qtdDeputados: 0, somaGastos: 0 },
+    'PR': { nome: 'Paraná', qtdDeputados: 0, somaGastos: 0 },
+    'PE': { nome: 'Pernambuco', qtdDeputados: 0, somaGastos: 0 },
+    'PI': { nome: 'Piauí', qtdDeputados: 0, somaGastos: 0 },
+    'RJ': { nome: 'Rio de Janeiro', qtdDeputados: 0, somaGastos: 0 },
+    'RN': { nome: 'Rio Grande do Norte', qtdDeputados: 0, somaGastos: 0 },
+    'RS': { nome: 'Rio Grande do Sul', qtdDeputados: 0, somaGastos: 0 },
+    'RO': { nome: 'Rondônia', qtdDeputados: 0, somaGastos: 0 },
+    'RR': { nome: 'Roraima', qtdDeputados: 0, somaGastos: 0 },
+    'SC': { nome: 'Santa Catarina', qtdDeputados: 0, somaGastos: 0 },
+    'SP': { nome: 'São Paulo', qtdDeputados: 0, somaGastos: 0 },
+    'SE': { nome: 'Sergipe', qtdDeputados: 0, somaGastos: 0 },
+    'TO': { nome: 'Tocantins', qtdDeputados: 0, somaGastos: 0 },
+  }
+
+  gastosPorPartido = {
+    'MDB': { somaGastos: 0, qtdDeputados: 0 },
+    'PTB': { somaGastos: 0, qtdDeputados: 0 },
+    'PDT': { somaGastos: 0, qtdDeputados: 0 },
+    'PT': { somaGastos: 0, qtdDeputados: 0 },
+    'DEM': { somaGastos: 0, qtdDeputados: 0 },
+    'PCdoB': { somaGastos: 0, qtdDeputados: 0 },
+    'PSB': { somaGastos: 0, qtdDeputados: 0 },
+    'PSDB': { somaGastos: 0, qtdDeputados: 0 },
+    'PTC': { somaGastos: 0, qtdDeputados: 0 },
+    'PSC': { somaGastos: 0, qtdDeputados: 0 },
+    'PMN': { somaGastos: 0, qtdDeputados: 0 },
+    'CIDADANIA': { somaGastos: 0, qtdDeputados: 0 },
+    'PV': { somaGastos: 0, qtdDeputados: 0 },
+    'AVANTE': { somaGastos: 0, qtdDeputados: 0 },
+    'PP': { somaGastos: 0, qtdDeputados: 0 },
+    'PSTU': { somaGastos: 0, qtdDeputados: 0 },
+    'PCB': { somaGastos: 0, qtdDeputados: 0 },
+    'PRTB': { somaGastos: 0, qtdDeputados: 0 },
+    'DC': { somaGastos: 0, qtdDeputados: 0 },
+    'PCO': { somaGastos: 0, qtdDeputados: 0 },
+    'PODE': { somaGastos: 0, qtdDeputados: 0 },
+    'PSL': { somaGastos: 0, qtdDeputados: 0 },
+    'REPUBLICANOS': { somaGastos: 0, qtdDeputados: 0 },
+    'PSOL': { somaGastos: 0, qtdDeputados: 0 },
+    'PL': { somaGastos: 0, qtdDeputados: 0 },
+    'PSD': { somaGastos: 0, qtdDeputados: 0 },
+    'PATRIOTA': { somaGastos: 0, qtdDeputados: 0 },
+    'PROS': { somaGastos: 0, qtdDeputados: 0 },
+    'SOLIDARIEDADE': { somaGastos: 0, qtdDeputados: 0 },
+    'NOVO': { somaGastos: 0, qtdDeputados: 0 },
+    'REDE': { somaGastos: 0, qtdDeputados: 0 },
+    'PMB': { somaGastos: 0, qtdDeputados: 0 },
+    'UP': { somaGastos: 0, qtdDeputados: 0 },
+  }
+
+  lista.map(deputado => {
+
+    if (deputadoGastoMenor.gastoMedio > deputado.gastoMedio && date.subtract(new Date(), new Date(deputado.ultimoStatus)).toDays() > 31) {
+      deputadoGastoMenor = deputado
+    }
+    if (deputadoGastoMaior.gastoMedio < deputado.gastoMedio && date.subtract(new Date(), new Date(deputado.ultimoStatus)).toDays() > 31) {
+      deputadoGastoMaior = deputado
+    }
+
+    gastosPorUnidadeFederativa[deputado.siglaUf] = {
+      ...gastosPorUnidadeFederativa[deputado.siglaUf],
+      somaGastos: gastosPorUnidadeFederativa[deputado.siglaUf].somaGastos + deputado.gastoMedio,
+      qtdDeputados: gastosPorUnidadeFederativa[deputado.siglaUf].qtdDeputados + 1
+    }
+
+    gastosPorPartido[deputado.siglaPartido] = {
+      somaGastos: gastosPorPartido[deputado.siglaPartido].somaGastos + deputado.gastoMedio,
+      qtdDeputados: gastosPorPartido[deputado.siglaPartido].qtdDeputados + 1
+    }
+
+    listaCompleta.push({
+      nome: deputado.nomeEleitoral,
+      partido: deputado.siglaPartido,
+      uf: deputado.siglaUf,
+      gastoMedio: deputado.gastoMedio
+    })
+
+    gastoMedioTotal += deputado.gastoMedio
+    quantidadeDeputados++
+  });
+
+  gastoMedio = gastoMedioTotal / quantidadeDeputados
+
+  return ({
+    gastoMedio,
+    gastoMediano,
+    deputadoGastoMenor,
+    deputadoGastoMaior,
+    gastosPorUnidadeFederativa,
+    gastoMedioTotal,
+    listaDeputadosMaioresGastos,
+    quantidadeDeputados,
+    gastosPorPartido,
+    listaCompleta
   })
 }
 
