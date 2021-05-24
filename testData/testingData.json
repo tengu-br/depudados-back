@@ -155,7 +155,7 @@
       "gastoMenor": 9253.13,
       "gastoMaior": 203423.04,
       "gastoTotal": 857081.8200000001,
-      "proposicoes": "33"
+      "proposicoes": 33
   },
   {
       "ideCadastro": "73696",
@@ -313,7 +313,7 @@
       "gastoMenor": -2014.29,
       "gastoMaior": 42599.39,
       "gastoTotal": 627407.6499999998,
-      "proposicoes": "10"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "73801",
@@ -454,7 +454,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 19364.48
+              "valor": 20653.59
           },
           {
               "ano": 2021,
@@ -467,11 +467,11 @@
               "valor": 12078.93
           }
       ],
-      "gastoMedio": 23813.188518518517,
+      "gastoMedio": 23860.93333333333,
       "gastoMenor": 12078.93,
       "gastoMaior": 37720.44,
-      "gastoTotal": 642956.09,
-      "proposicoes": "83"
+      "gastoTotal": 644245.2,
+      "proposicoes": 83
   },
   {
       "ideCadastro": "74848",
@@ -622,14 +622,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 8933.6
+              "valor": 11214.17
           }
       ],
-      "gastoMedio": 24207.616666666665,
+      "gastoMedio": 24292.08222222222,
       "gastoMenor": 4834.63,
       "gastoMaior": 47671.57,
-      "gastoTotal": 653605.6499999999,
-      "proposicoes": "22"
+      "gastoTotal": 655886.22,
+      "proposicoes": 21
   },
   {
       "ideCadastro": "74459",
@@ -787,7 +787,7 @@
       "gastoMenor": 18500,
       "gastoMaior": 59518.86,
       "gastoTotal": 768042.17,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "73466",
@@ -945,7 +945,7 @@
       "gastoMenor": 7068.5,
       "gastoMaior": 44683.18,
       "gastoTotal": 631131.1400000001,
-      "proposicoes": "5"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "74419",
@@ -1091,19 +1091,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 22490.55
+              "valor": 22705.39
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20960.35
+              "valor": 21175.19
           }
       ],
-      "gastoMedio": 39155.800740740735,
+      "gastoMedio": 39171.714814814804,
       "gastoMenor": 15536.17,
       "gastoMaior": 124610.47,
-      "gastoTotal": 1057206.6199999999,
-      "proposicoes": "2"
+      "gastoTotal": 1057636.2999999998,
+      "proposicoes": 28
   },
   {
       "ideCadastro": "74317",
@@ -1254,14 +1254,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 27285.01
+              "valor": 29791.94
           }
       ],
-      "gastoMedio": 39843.17148148148,
+      "gastoMedio": 39936.02074074074,
       "gastoMenor": 18237.25,
       "gastoMaior": 70932.31,
-      "gastoTotal": 1075765.63,
-      "proposicoes": "17"
+      "gastoTotal": 1078272.56,
+      "proposicoes": 33
   },
   {
       "ideCadastro": "74075",
@@ -1419,7 +1419,7 @@
       "gastoMenor": 2371.78,
       "gastoMaior": 96954.76,
       "gastoTotal": 592934.1699999999,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "73433",
@@ -1577,7 +1577,7 @@
       "gastoMenor": 4791.79,
       "gastoMaior": 159279.94,
       "gastoTotal": 660539.37,
-      "proposicoes": "16"
+      "proposicoes": 15
   },
   {
       "ideCadastro": "73788",
@@ -1718,7 +1718,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 34866.1
+              "valor": 37201.16
           },
           {
               "ano": 2021,
@@ -1731,11 +1731,11 @@
               "valor": 7815.31
           }
       ],
-      "gastoMedio": 32616.8862962963,
+      "gastoMedio": 32703.370000000003,
       "gastoMenor": 7815.31,
       "gastoMaior": 108278,
-      "gastoTotal": 880655.93,
-      "proposicoes": "5"
+      "gastoTotal": 882990.9900000001,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "73531",
@@ -1893,7 +1893,7 @@
       "gastoMenor": 6500,
       "gastoMaior": 42957.96,
       "gastoTotal": 515153.83,
-      "proposicoes": "24"
+      "proposicoes": 24
   },
   {
       "ideCadastro": "74749",
@@ -2051,7 +2051,7 @@
       "gastoMenor": 12756.53,
       "gastoMaior": 41022.48,
       "gastoTotal": 690581.55,
-      "proposicoes": "10"
+      "proposicoes": 28
   },
   {
       "ideCadastro": "74299",
@@ -2202,14 +2202,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 7621.84
+              "valor": 10358.04
           }
       ],
-      "gastoMedio": 30046.084814814818,
-      "gastoMenor": 7621.84,
+      "gastoMedio": 30147.42555555556,
+      "gastoMenor": 8532.17,
       "gastoMaior": 53770.79,
-      "gastoTotal": 811244.29,
-      "proposicoes": "2"
+      "gastoTotal": 813980.4900000001,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "74655",
@@ -2367,7 +2367,7 @@
       "gastoMenor": 12506.15,
       "gastoMaior": 29400.79,
       "gastoTotal": 511008.5099999999,
-      "proposicoes": "17"
+      "proposicoes": 19
   },
   {
       "ideCadastro": "73772",
@@ -2525,7 +2525,7 @@
       "gastoMenor": 4800.67,
       "gastoMaior": 174945.1,
       "gastoTotal": 771451.9799999999,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "74079",
@@ -2671,19 +2671,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 10783.78
+              "valor": 11313.77
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 5177.58
+              "valor": 6559.05
           }
       ],
-      "gastoMedio": 22640.8308,
+      "gastoMedio": 22717.289200000003,
       "gastoMenor": -3621.32,
       "gastoMaior": 57368.22,
-      "gastoTotal": 566020.77,
-      "proposicoes": "1"
+      "gastoTotal": 567932.2300000001,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "74439",
@@ -2841,7 +2841,7 @@
       "gastoMenor": 853.75,
       "gastoMaior": 138361.9,
       "gastoTotal": 811951.0800000001,
-      "proposicoes": "143"
+      "proposicoes": 142
   },
   {
       "ideCadastro": "73441",
@@ -2992,14 +2992,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6530.39
+              "valor": 9496.2
           }
       ],
-      "gastoMedio": 19423.339230769234,
+      "gastoMedio": 19537.40884615385,
       "gastoMenor": 0,
       "gastoMaior": 47189.27,
-      "gastoTotal": 505006.82000000007,
-      "proposicoes": "3"
+      "gastoTotal": 507972.63000000006,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "74043",
@@ -3150,14 +3150,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 36059.57
+              "valor": 36473.04
           }
       ],
-      "gastoMedio": 42656.97074074074,
+      "gastoMedio": 42672.28444444444,
       "gastoMenor": 34484.07,
       "gastoMaior": 50912.19,
-      "gastoTotal": 1151738.21,
-      "proposicoes": "12"
+      "gastoTotal": 1152151.68,
+      "proposicoes": 12
   },
   {
       "ideCadastro": "74585",
@@ -3315,7 +3315,7 @@
       "gastoMenor": 3572.21,
       "gastoMaior": 56202.71,
       "gastoTotal": 796813.71,
-      "proposicoes": "4"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "74467",
@@ -3456,7 +3456,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 19101.79
+              "valor": 19070.22
           },
           {
               "ano": 2021,
@@ -3469,11 +3469,11 @@
               "valor": 0
           }
       ],
-      "gastoMedio": 33267.020000000004,
+      "gastoMedio": 33265.80576923077,
       "gastoMenor": 0,
       "gastoMaior": 57373.32,
-      "gastoTotal": 864942.52,
-      "proposicoes": "3"
+      "gastoTotal": 864910.95,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "73460",
@@ -3624,14 +3624,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32595.82
+              "valor": 32647.82
           }
       ],
-      "gastoMedio": 12629.488888888885,
+      "gastoMedio": 12631.41481481481,
       "gastoMenor": 4356.61,
-      "gastoMaior": 32595.82,
-      "gastoTotal": 340996.1999999999,
-      "proposicoes": "21"
+      "gastoMaior": 32647.82,
+      "gastoTotal": 341048.1999999999,
+      "proposicoes": 21
   },
   {
       "ideCadastro": "74471",
@@ -3782,14 +3782,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 33710
+              "valor": 36425.4
           }
       ],
-      "gastoMedio": 29419.26925925926,
+      "gastoMedio": 29519.83962962963,
       "gastoMenor": 9330.02,
       "gastoMaior": 51310.43,
-      "gastoTotal": 794320.27,
-      "proposicoes": "5"
+      "gastoTotal": 797035.67,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "74693",
@@ -3947,7 +3947,7 @@
       "gastoMenor": 3060.13,
       "gastoMaior": 24830.59,
       "gastoTotal": 549702.1900000002,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "73486",
@@ -4098,14 +4098,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11073.05
+              "valor": 11441.41
           }
       ],
-      "gastoMedio": 35243.18222222223,
-      "gastoMenor": 11073.05,
+      "gastoMedio": 35256.8251851852,
+      "gastoMenor": 11441.41,
       "gastoMaior": 113138.41,
-      "gastoTotal": 951565.9200000003,
-      "proposicoes": "12"
+      "gastoTotal": 951934.2800000003,
+      "proposicoes": 13
   },
   {
       "ideCadastro": "73482",
@@ -4263,7 +4263,7 @@
       "gastoMenor": 5417.74,
       "gastoMaior": 38138.95,
       "gastoTotal": 611695.84,
-      "proposicoes": "24"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "74784",
@@ -4414,14 +4414,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 2479.66
+              "valor": 4694.35
           }
       ],
-      "gastoMedio": 21258.897407407407,
-      "gastoMenor": 2479.66,
+      "gastoMedio": 21340.92296296296,
+      "gastoMenor": 4694.35,
       "gastoMaior": 48482.63,
-      "gastoTotal": 573990.23,
-      "proposicoes": "29"
+      "gastoTotal": 576204.9199999999,
+      "proposicoes": 28
   },
   {
       "ideCadastro": "74352",
@@ -4562,7 +4562,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 37334.46
+              "valor": 39675.03
           },
           {
               "ano": 2021,
@@ -4572,14 +4572,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 23051.08
+              "valor": 23611.65
           }
       ],
-      "gastoMedio": 34145.71703703704,
-      "gastoMenor": 23051.08,
+      "gastoMedio": 34253.16666666667,
+      "gastoMenor": 23611.65,
       "gastoMaior": 66788.69,
-      "gastoTotal": 921934.36,
-      "proposicoes": "1"
+      "gastoTotal": 924835.5000000001,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "73586",
@@ -4737,7 +4737,7 @@
       "gastoMenor": 5021.38,
       "gastoMaior": 55830.55,
       "gastoTotal": 680962.9799999997,
-      "proposicoes": "20"
+      "proposicoes": 20
   },
   {
       "ideCadastro": "73692",
@@ -4895,7 +4895,7 @@
       "gastoMenor": 0,
       "gastoMaior": 51078.54,
       "gastoTotal": 513813.67000000004,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "74383",
@@ -5053,7 +5053,7 @@
       "gastoMenor": 3764.93,
       "gastoMaior": 71768.8,
       "gastoTotal": 909364.91,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "74400",
@@ -5204,14 +5204,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 121.18
+              "valor": 2222.14
           }
       ],
-      "gastoMedio": 36149.77333333333,
-      "gastoMenor": 121.18,
+      "gastoMedio": 36227.58666666666,
+      "gastoMenor": 2222.14,
       "gastoMaior": 103544.86,
-      "gastoTotal": 976043.88,
-      "proposicoes": "14"
+      "gastoTotal": 978144.84,
+      "proposicoes": 17
   },
   {
       "ideCadastro": "74398",
@@ -5362,14 +5362,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 133.87
+              "valor": 742.04
           }
       ],
-      "gastoMedio": 26769.777777777777,
-      "gastoMenor": 133.87,
+      "gastoMedio": 26792.302592592594,
+      "gastoMenor": 742.04,
       "gastoMaior": 48313.71,
-      "gastoTotal": 722784,
-      "proposicoes": "28"
+      "gastoTotal": 723392.17,
+      "proposicoes": 29
   },
   {
       "ideCadastro": "74052",
@@ -5510,12 +5510,12 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 33590.36
+              "valor": 34142.29
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 19534.81
+              "valor": 31332.87
           },
           {
               "ano": 2021,
@@ -5523,11 +5523,11 @@
               "valor": 3500
           }
       ],
-      "gastoMedio": 28055.767777777783,
+      "gastoMedio": 28513.174814814818,
       "gastoMenor": 3500,
       "gastoMaior": 52745.89,
-      "gastoTotal": 757505.7300000001,
-      "proposicoes": "5"
+      "gastoTotal": 769855.7200000001,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "74283",
@@ -5685,7 +5685,7 @@
       "gastoMenor": 3372.91,
       "gastoMaior": 54711.52,
       "gastoTotal": 608929.4400000001,
-      "proposicoes": "16"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "74270",
@@ -5843,7 +5843,7 @@
       "gastoMenor": 19110.5,
       "gastoMaior": 39403.98,
       "gastoTotal": 762887.3299999998,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "74273",
@@ -6001,7 +6001,7 @@
       "gastoMenor": 0,
       "gastoMaior": 61275.73,
       "gastoTotal": 669870.1599999999,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "74262",
@@ -6159,7 +6159,7 @@
       "gastoMenor": 8512.95,
       "gastoMaior": 54739.17,
       "gastoTotal": 729179.3600000002,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "74159",
@@ -6317,7 +6317,7 @@
       "gastoMenor": 12132.55,
       "gastoMaior": 110016.04,
       "gastoTotal": 919852.59,
-      "proposicoes": "14"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "74161",
@@ -6475,7 +6475,7 @@
       "gastoMenor": 4573.68,
       "gastoMaior": 96404.9,
       "gastoTotal": 743548.91,
-      "proposicoes": "14"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "74160",
@@ -6626,14 +6626,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 5723.16
+              "valor": 14676.66
           }
       ],
-      "gastoMedio": 28538.061481481473,
-      "gastoMenor": 5723.16,
+      "gastoMedio": 28869.672592592586,
+      "gastoMenor": 7150,
       "gastoMaior": 43575.62,
-      "gastoTotal": 770527.6599999998,
-      "proposicoes": "24"
+      "gastoTotal": 779481.1599999998,
+      "proposicoes": 23
   },
   {
       "ideCadastro": "74156",
@@ -6791,7 +6791,7 @@
       "gastoMenor": 10733.3,
       "gastoMaior": 51225.68,
       "gastoTotal": 893223.8400000001,
-      "proposicoes": "19"
+      "proposicoes": 17
   },
   {
       "ideCadastro": "74376",
@@ -6932,7 +6932,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 25575.35
+              "valor": 26458.82
           },
           {
               "ano": 2021,
@@ -6945,11 +6945,11 @@
               "valor": 33228.64
           }
       ],
-      "gastoMedio": 35124.043333333335,
+      "gastoMedio": 35156.764444444445,
       "gastoMenor": 10496.54,
       "gastoMaior": 59229.43,
-      "gastoTotal": 948349.17,
-      "proposicoes": "15"
+      "gastoTotal": 949232.64,
+      "proposicoes": 14
   },
   {
       "ideCadastro": "74044",
@@ -7107,7 +7107,7 @@
       "gastoMenor": 0,
       "gastoMaior": 74340.99,
       "gastoTotal": 1092271,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "73943",
@@ -7248,7 +7248,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 48017.42
+              "valor": 49422.65
           },
           {
               "ano": 2021,
@@ -7258,14 +7258,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 19040.87
+              "valor": 27776.69
           }
       ],
-      "gastoMedio": 42627.9637037037,
-      "gastoMenor": 19040.87,
+      "gastoMedio": 43003.55814814814,
+      "gastoMenor": 22819.72,
       "gastoMaior": 86534.49,
-      "gastoTotal": 1150955.02,
-      "proposicoes": "41"
+      "gastoTotal": 1161096.0699999998,
+      "proposicoes": 37
   },
   {
       "ideCadastro": "74371",
@@ -7423,7 +7423,7 @@
       "gastoMenor": 20597.48,
       "gastoMaior": 50401.39,
       "gastoTotal": 902325.47,
-      "proposicoes": "20"
+      "proposicoes": 19
   },
   {
       "ideCadastro": "74366",
@@ -7581,7 +7581,7 @@
       "gastoMenor": 22171.03,
       "gastoMaior": 49884.35,
       "gastoTotal": 828531.11,
-      "proposicoes": "4"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "74158",
@@ -7732,14 +7732,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 15063.59
+              "valor": 17075.55
           }
       ],
-      "gastoMedio": 27471.07481481482,
+      "gastoMedio": 27545.59185185186,
       "gastoMenor": 8883.06,
       "gastoMaior": 49746.87,
-      "gastoTotal": 741719.0200000001,
-      "proposicoes": "22"
+      "gastoTotal": 743730.9800000002,
+      "proposicoes": 23
   },
   {
       "ideCadastro": "133439",
@@ -7880,7 +7880,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 36464.59
+              "valor": 37909.5
           },
           {
               "ano": 2021,
@@ -7893,11 +7893,11 @@
               "valor": 20732.22
           }
       ],
-      "gastoMedio": 35335.55222222222,
+      "gastoMedio": 35389.067407407405,
       "gastoMenor": 14119.86,
       "gastoMaior": 67911.48,
-      "gastoTotal": 954059.9099999999,
-      "proposicoes": "20"
+      "gastoTotal": 955504.82,
+      "proposicoes": 21
   },
   {
       "ideCadastro": "136811",
@@ -8055,7 +8055,7 @@
       "gastoMenor": 8819.1,
       "gastoMaior": 48885.48,
       "gastoTotal": 672417.5599999999,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "141335",
@@ -8213,7 +8213,7 @@
       "gastoMenor": 6343.75,
       "gastoMaior": 63893.01,
       "gastoTotal": 1088463.56,
-      "proposicoes": "12"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "141391",
@@ -8371,7 +8371,7 @@
       "gastoMenor": 11518.93,
       "gastoMaior": 43021.47,
       "gastoTotal": 716706.6100000001,
-      "proposicoes": "9"
+      "proposicoes": 39
   },
   {
       "ideCadastro": "141513",
@@ -8529,7 +8529,7 @@
       "gastoMenor": 0,
       "gastoMaior": 47321.93,
       "gastoTotal": 641558.86,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "141405",
@@ -8670,7 +8670,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 35409.16
+              "valor": 35840.73
           },
           {
               "ano": 2021,
@@ -8683,11 +8683,11 @@
               "valor": 21497.44
           }
       ],
-      "gastoMedio": 28972.9637037037,
+      "gastoMedio": 28988.947777777772,
       "gastoMenor": 14174.84,
       "gastoMaior": 42056.5,
-      "gastoTotal": 782270.0199999999,
-      "proposicoes": "12"
+      "gastoTotal": 782701.5899999999,
+      "proposicoes": 12
   },
   {
       "ideCadastro": "141439",
@@ -8845,7 +8845,7 @@
       "gastoMenor": 15426.16,
       "gastoMaior": 51456.7,
       "gastoTotal": 794209.0499999999,
-      "proposicoes": "6"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "141411",
@@ -8986,7 +8986,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 38060.92
+              "valor": 40070.22
           },
           {
               "ano": 2021,
@@ -8996,14 +8996,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 33342.19
+              "valor": 33373.27
           }
       ],
-      "gastoMedio": 37272.79555555555,
+      "gastoMedio": 37348.36518518518,
       "gastoMenor": 16181.96,
       "gastoMaior": 50878.58,
-      "gastoTotal": 1006365.48,
-      "proposicoes": "7"
+      "gastoTotal": 1008405.86,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "141417",
@@ -9161,7 +9161,7 @@
       "gastoMenor": 13280.09,
       "gastoMaior": 65354.73,
       "gastoTotal": 846864.4500000002,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "141421",
@@ -9319,7 +9319,7 @@
       "gastoMenor": 16675.08,
       "gastoMaior": 83113.82,
       "gastoTotal": 776252.9299999999,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "141422",
@@ -9477,7 +9477,7 @@
       "gastoMenor": 158.77,
       "gastoMaior": 67019.38,
       "gastoTotal": 945855.85,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "141427",
@@ -9635,7 +9635,7 @@
       "gastoMenor": 4060.98,
       "gastoMaior": 41439.88,
       "gastoTotal": 607486.49,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "141431",
@@ -9793,7 +9793,7 @@
       "gastoMenor": 2247.49,
       "gastoMaior": 62104.97,
       "gastoTotal": 665132.85,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "141434",
@@ -9951,7 +9951,7 @@
       "gastoMenor": 13059.9,
       "gastoMaior": 100991.21,
       "gastoTotal": 1099652.24,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "141450",
@@ -10109,7 +10109,7 @@
       "gastoMenor": 15291.44,
       "gastoMaior": 43897.15,
       "gastoTotal": 705540.45,
-      "proposicoes": "10"
+      "proposicoes": 34
   },
   {
       "ideCadastro": "141459",
@@ -10267,7 +10267,7 @@
       "gastoMenor": 9087.55,
       "gastoMaior": 90513.3,
       "gastoTotal": 1195192.8599999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "141464",
@@ -10408,7 +10408,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 59209.86
+              "valor": 61180.46
           },
           {
               "ano": 2021,
@@ -10421,11 +10421,11 @@
               "valor": 19500
           }
       ],
-      "gastoMedio": 37848.06259259259,
+      "gastoMedio": 37921.04777777778,
       "gastoMenor": 11528.77,
       "gastoMaior": 100278.27,
-      "gastoTotal": 1021897.69,
-      "proposicoes": "4"
+      "gastoTotal": 1023868.2899999999,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "141470",
@@ -10566,24 +10566,24 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 33522.89
+              "valor": 35604.36
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 34642.54
+              "valor": 34857.38
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32042.67
+              "valor": 32257.51
           }
       ],
-      "gastoMedio": 38050.73481481482,
+      "gastoMedio": 38143.740370370375,
       "gastoMenor": 16300.29,
       "gastoMaior": 75613.77,
-      "gastoTotal": 1027369.8400000002,
-      "proposicoes": "40"
+      "gastoTotal": 1029880.9900000001,
+      "proposicoes": 39
   },
   {
       "ideCadastro": "141508",
@@ -10741,7 +10741,7 @@
       "gastoMenor": 15.6,
       "gastoMaior": 28677.56,
       "gastoTotal": 292312.9599999999,
-      "proposicoes": "17"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "141518",
@@ -10892,14 +10892,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 13191.33
+              "valor": 19291.7
           }
       ],
-      "gastoMedio": 18311.80555555556,
+      "gastoMedio": 18537.745185185187,
       "gastoMenor": 4115.07,
       "gastoMaior": 39984.1,
-      "gastoTotal": 494418.75000000006,
-      "proposicoes": "53"
+      "gastoTotal": 500519.12000000005,
+      "proposicoes": 53
   },
   {
       "ideCadastro": "141516",
@@ -11040,12 +11040,12 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 33567.83
+              "valor": 35538.33
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 15865.48
+              "valor": 16095.12
           },
           {
               "ano": 2021,
@@ -11053,11 +11053,11 @@
               "valor": 11504.6
           }
       ],
-      "gastoMedio": 31965.797037037035,
+      "gastoMedio": 32047.2837037037,
       "gastoMenor": 11278.55,
       "gastoMaior": 100162.35,
-      "gastoTotal": 863076.5199999999,
-      "proposicoes": "2"
+      "gastoTotal": 865276.6599999999,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "141488",
@@ -11215,7 +11215,7 @@
       "gastoMenor": 617.68,
       "gastoMaior": 49341.17,
       "gastoTotal": 971054.2400000001,
-      "proposicoes": "29"
+      "proposicoes": 26
   },
   {
       "ideCadastro": "141523",
@@ -11373,7 +11373,7 @@
       "gastoMenor": 3822.3,
       "gastoMaior": 51177.36,
       "gastoTotal": 661636.0900000001,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "141531",
@@ -11524,14 +11524,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 9520.07
+              "valor": 24362.32
           }
       ],
-      "gastoMedio": 30702.08962962963,
-      "gastoMenor": 9520.07,
+      "gastoMedio": 31251.802592592594,
+      "gastoMenor": 22035.52,
       "gastoMaior": 42748.28,
-      "gastoTotal": 828956.42,
-      "proposicoes": "8"
+      "gastoTotal": 843798.67,
+      "proposicoes": 8
   },
   {
       "ideCadastro": "141553",
@@ -11689,7 +11689,7 @@
       "gastoMenor": 12186.88,
       "gastoMaior": 46369.39,
       "gastoTotal": 866655.15,
-      "proposicoes": "12"
+      "proposicoes": 30
   },
   {
       "ideCadastro": "141555",
@@ -11840,14 +11840,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 14872.54
+              "valor": 15522.54
           }
       ],
-      "gastoMedio": 33726.765185185184,
+      "gastoMedio": 33750.83925925926,
       "gastoMenor": 12638.51,
       "gastoMaior": 62445.24,
-      "gastoTotal": 910622.66,
-      "proposicoes": "9"
+      "gastoTotal": 911272.66,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "141398",
@@ -12005,7 +12005,7 @@
       "gastoMenor": 6351.4,
       "gastoMaior": 77953.69,
       "gastoTotal": 778470.1199999999,
-      "proposicoes": "18"
+      "proposicoes": 17
   },
   {
       "ideCadastro": "146307",
@@ -12163,7 +12163,7 @@
       "gastoMenor": 12579.72,
       "gastoMaior": 51926.46,
       "gastoTotal": 856944.4499999998,
-      "proposicoes": "13"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "151208",
@@ -12304,24 +12304,24 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 31600.01
+              "valor": 32310.82
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 20010.05
+              "valor": 20117.47
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 8863.5
+              "valor": 8970.92
           }
       ],
-      "gastoMedio": 25718.079629629636,
+      "gastoMedio": 25752.362962962965,
       "gastoMenor": 6447.74,
       "gastoMaior": 77827.81,
-      "gastoTotal": 694388.1500000001,
-      "proposicoes": "7"
+      "gastoTotal": 695313.8,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "152610",
@@ -12479,7 +12479,7 @@
       "gastoMenor": 27580.31,
       "gastoMaior": 48930.64,
       "gastoTotal": 968497.6700000002,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "152605",
@@ -12625,7 +12625,7 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 22270.91
+              "valor": 22570.91
           },
           {
               "ano": 2021,
@@ -12633,11 +12633,11 @@
               "valor": 61.95
           }
       ],
-      "gastoMedio": 25709.691851851858,
+      "gastoMedio": 25720.80296296297,
       "gastoMenor": 61.95,
       "gastoMaior": 43158.56,
-      "gastoTotal": 694161.6800000002,
-      "proposicoes": "11"
+      "gastoTotal": 694461.6800000002,
+      "proposicoes": 11
   },
   {
       "ideCadastro": "154178",
@@ -12783,7 +12783,7 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 39527.86
+              "valor": 43833.56
           },
           {
               "ano": 2021,
@@ -12791,11 +12791,11 @@
               "valor": 25073.95
           }
       ],
-      "gastoMedio": 30780.261851851854,
+      "gastoMedio": 30939.732222222225,
       "gastoMenor": 5880.77,
       "gastoMaior": 69814.34,
-      "gastoTotal": 831067.0700000001,
-      "proposicoes": "1"
+      "gastoTotal": 835372.77,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "160541",
@@ -12953,7 +12953,7 @@
       "gastoMenor": 41.66,
       "gastoMaior": 52406.39,
       "gastoTotal": 498258.45999999996,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "160641",
@@ -13111,7 +13111,7 @@
       "gastoMenor": 254.93,
       "gastoMaior": 122450,
       "gastoTotal": 914172.2200000002,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "160591",
@@ -13269,7 +13269,7 @@
       "gastoMenor": 0,
       "gastoMaior": 137632.58,
       "gastoTotal": 846399.69,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "160645",
@@ -13427,7 +13427,7 @@
       "gastoMenor": 4024.1,
       "gastoMaior": 69749.7,
       "gastoTotal": 1112213.1199999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "160669",
@@ -13573,19 +13573,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 8739.84
+              "valor": 8954.68
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 107.24
+              "valor": 322.08
           }
       ],
-      "gastoMedio": 20816.736296296287,
-      "gastoMenor": 107.24,
+      "gastoMedio": 20832.650370370364,
+      "gastoMenor": 317.06,
       "gastoMaior": 75174.26,
-      "gastoTotal": 562051.8799999998,
-      "proposicoes": "1"
+      "gastoTotal": 562481.5599999998,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "143632",
@@ -13736,14 +13736,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 34814.5
+              "valor": 36103.97
           }
       ],
-      "gastoMedio": 37590.995,
+      "gastoMedio": 37644.722916666666,
       "gastoMenor": 0,
       "gastoMaior": 80483.29,
-      "gastoTotal": 902183.88,
-      "proposicoes": "3"
+      "gastoTotal": 903473.35,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "160575",
@@ -13901,7 +13901,7 @@
       "gastoMenor": 20020.08,
       "gastoMaior": 34802.5,
       "gastoTotal": 702942.4500000001,
-      "proposicoes": "107"
+      "proposicoes": 106
   },
   {
       "ideCadastro": "160534",
@@ -14052,14 +14052,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 16287.23
+              "valor": 16637.23
           }
       ],
-      "gastoMedio": 34324.37296296296,
-      "gastoMenor": 16287.23,
+      "gastoMedio": 34337.33592592592,
+      "gastoMenor": 16637.23,
       "gastoMaior": 62298.96,
-      "gastoTotal": 926758.0699999998,
-      "proposicoes": "3"
+      "gastoTotal": 927108.0699999998,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "160598",
@@ -14217,7 +14217,7 @@
       "gastoMenor": 0,
       "gastoMaior": 54140.87,
       "gastoTotal": 688688.1999999998,
-      "proposicoes": "28"
+      "proposicoes": 27
   },
   {
       "ideCadastro": "160599",
@@ -14375,7 +14375,7 @@
       "gastoMenor": 2120.46,
       "gastoMaior": 38194.14,
       "gastoTotal": 760894.68,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "160632",
@@ -14533,7 +14533,7 @@
       "gastoMenor": 6031.1,
       "gastoMaior": 60370.7,
       "gastoTotal": 803624.7799999999,
-      "proposicoes": "12"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "160556",
@@ -14691,7 +14691,7 @@
       "gastoMenor": 968.51,
       "gastoMaior": 251151.22,
       "gastoTotal": 904932.7100000001,
-      "proposicoes": "22"
+      "proposicoes": 21
   },
   {
       "ideCadastro": "160518",
@@ -14849,7 +14849,7 @@
       "gastoMenor": 0,
       "gastoMaior": 176548.38,
       "gastoTotal": 590990.62,
-      "proposicoes": "2"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "160640",
@@ -15007,7 +15007,7 @@
       "gastoMenor": 14310.95,
       "gastoMaior": 47051.21,
       "gastoTotal": 703003.75,
-      "proposicoes": "1"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "160588",
@@ -15165,7 +15165,7 @@
       "gastoMenor": 7066.33,
       "gastoMaior": 84327.21,
       "gastoTotal": 700831.7200000001,
-      "proposicoes": "9"
+      "proposicoes": 19
   },
   {
       "ideCadastro": "160758",
@@ -15316,14 +15316,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20922.07
+              "valor": 28664.45
           }
       ],
-      "gastoMedio": 33295.29592592592,
+      "gastoMedio": 33582.050740740735,
       "gastoMenor": 15332.12,
       "gastoMaior": 95230.9,
-      "gastoTotal": 898972.9899999999,
-      "proposicoes": "13"
+      "gastoTotal": 906715.3699999999,
+      "proposicoes": 14
   },
   {
       "ideCadastro": "160510",
@@ -15481,7 +15481,7 @@
       "gastoMenor": 13542.62,
       "gastoMaior": 93160.68,
       "gastoTotal": 746064.48,
-      "proposicoes": "7"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "160587",
@@ -15639,7 +15639,7 @@
       "gastoMenor": 108.57,
       "gastoMaior": 43580.89,
       "gastoTotal": 394630.5,
-      "proposicoes": "28"
+      "proposicoes": 22
   },
   {
       "ideCadastro": "160527",
@@ -15780,7 +15780,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 33343.44
+              "valor": 35684.01
           },
           {
               "ano": 2021,
@@ -15793,11 +15793,11 @@
               "valor": 27477.36
           }
       ],
-      "gastoMedio": 32401.166666666668,
+      "gastoMedio": 32487.85444444444,
       "gastoMenor": 15151.57,
       "gastoMaior": 49650.77,
-      "gastoTotal": 874831.5,
-      "proposicoes": "0"
+      "gastoTotal": 877172.07,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "160674",
@@ -15948,14 +15948,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32329.84
+              "valor": 32679.84
           }
       ],
-      "gastoMedio": 37529.92555555556,
+      "gastoMedio": 37542.88851851852,
       "gastoMenor": 7309.43,
       "gastoMaior": 64052.11,
-      "gastoTotal": 1013307.99,
-      "proposicoes": "54"
+      "gastoTotal": 1013657.99,
+      "proposicoes": 54
   },
   {
       "ideCadastro": "160665",
@@ -16113,7 +16113,7 @@
       "gastoMenor": 13157.74,
       "gastoMaior": 82014.77,
       "gastoTotal": 990367.53,
-      "proposicoes": "9"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "160528",
@@ -16264,14 +16264,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11743.73
+              "valor": 15443.73
           }
       ],
-      "gastoMedio": 20011.66111111111,
+      "gastoMedio": 20148.69814814815,
       "gastoMenor": 4625,
       "gastoMaior": 50815.84,
-      "gastoTotal": 540314.85,
-      "proposicoes": "149"
+      "gastoTotal": 544014.85,
+      "proposicoes": 151
   },
   {
       "ideCadastro": "160642",
@@ -16429,7 +16429,7 @@
       "gastoMenor": 4776.75,
       "gastoMaior": 106617.78,
       "gastoTotal": 653526.7600000001,
-      "proposicoes": "0"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "67138",
@@ -16575,19 +16575,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 32779
+              "valor": 33316.1
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 24465.31
+              "valor": 25002.41
           }
       ],
-      "gastoMedio": 35917.68518518518,
+      "gastoMedio": 35957.47037037036,
       "gastoMenor": 19822.59,
       "gastoMaior": 78531.61,
-      "gastoTotal": 969777.4999999999,
-      "proposicoes": "4"
+      "gastoTotal": 970851.6999999998,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "160592",
@@ -16745,7 +16745,7 @@
       "gastoMenor": 14619.55,
       "gastoMaior": 115148.77,
       "gastoTotal": 988229.53,
-      "proposicoes": "9"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "160511",
@@ -16896,14 +16896,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20838.09
+              "valor": 21188.09
           }
       ],
-      "gastoMedio": 28829.102592592593,
+      "gastoMedio": 28842.065555555557,
       "gastoMenor": 14998.14,
       "gastoMaior": 52174.03,
-      "gastoTotal": 778385.77,
-      "proposicoes": "18"
+      "gastoTotal": 778735.77,
+      "proposicoes": 18
   },
   {
       "ideCadastro": "160512",
@@ -17044,7 +17044,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 11309.15
+              "valor": 11340.72
           },
           {
               "ano": 2021,
@@ -17057,11 +17057,11 @@
               "valor": 1198.03
           }
       ],
-      "gastoMedio": 28376.695185185185,
+      "gastoMedio": 28377.864444444444,
       "gastoMenor": 651.5,
       "gastoMaior": 169057.27,
-      "gastoTotal": 766170.77,
-      "proposicoes": "49"
+      "gastoTotal": 766202.34,
+      "proposicoes": 48
   },
   {
       "ideCadastro": "160531",
@@ -17219,7 +17219,7 @@
       "gastoMenor": 8481.73,
       "gastoMaior": 154255.19,
       "gastoTotal": 1139566.7400000002,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "160570",
@@ -17377,7 +17377,7 @@
       "gastoMenor": 10451.95,
       "gastoMaior": 56195.51,
       "gastoTotal": 769239.0599999998,
-      "proposicoes": "16"
+      "proposicoes": 21
   },
   {
       "ideCadastro": "160673",
@@ -17523,19 +17523,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 31753.13
+              "valor": 31860.55
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32360.35
+              "valor": 32467.77
           }
       ],
-      "gastoMedio": 35715.86814814815,
+      "gastoMedio": 35723.82518518519,
       "gastoMenor": 22764.59,
       "gastoMaior": 61329.81,
-      "gastoTotal": 964328.4400000001,
-      "proposicoes": "16"
+      "gastoTotal": 964543.2800000001,
+      "proposicoes": 16
   },
   {
       "ideCadastro": "160538",
@@ -17686,14 +17686,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 14217.29
+              "valor": 14371.28
           }
       ],
-      "gastoMedio": 28494.028518518524,
-      "gastoMenor": 14217.29,
+      "gastoMedio": 28499.731851851855,
+      "gastoMenor": 14371.28,
       "gastoMaior": 46376.82,
-      "gastoTotal": 769338.7700000001,
-      "proposicoes": "179"
+      "gastoTotal": 769492.7600000001,
+      "proposicoes": 181
   },
   {
       "ideCadastro": "160535",
@@ -17851,7 +17851,7 @@
       "gastoMenor": 8890.17,
       "gastoMaior": 72296.97,
       "gastoTotal": 747379.87,
-      "proposicoes": "19"
+      "proposicoes": 17
   },
   {
       "ideCadastro": "160559",
@@ -18002,14 +18002,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 24407.66
+              "valor": 25017.97
           }
       ],
-      "gastoMedio": 33773.403333333335,
+      "gastoMedio": 33796.00740740741,
       "gastoMenor": 18128.46,
       "gastoMaior": 52291.99,
-      "gastoTotal": 911881.8900000001,
-      "proposicoes": "11"
+      "gastoTotal": 912492.2000000001,
+      "proposicoes": 11
   },
   {
       "ideCadastro": "160604",
@@ -18167,7 +18167,7 @@
       "gastoMenor": 7787.36,
       "gastoMaior": 170366.75,
       "gastoTotal": 820129.7199999997,
-      "proposicoes": "22"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "160651",
@@ -18308,7 +18308,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 7521.16
+              "valor": 7788.44
           },
           {
               "ano": 2021,
@@ -18321,11 +18321,11 @@
               "valor": 15416.12
           }
       ],
-      "gastoMedio": 25029.683043478264,
+      "gastoMedio": 25041.303913043477,
       "gastoMenor": 0,
       "gastoMaior": 42593.26,
-      "gastoTotal": 575682.7100000001,
-      "proposicoes": "3"
+      "gastoTotal": 575949.99,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "160601",
@@ -18466,7 +18466,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 19663.33
+              "valor": 20043.49
           },
           {
               "ano": 2021,
@@ -18479,11 +18479,11 @@
               "valor": 15107.24
           }
       ],
-      "gastoMedio": 21609.1437037037,
+      "gastoMedio": 21623.2237037037,
       "gastoMenor": 5379.44,
       "gastoMaior": 58752.13,
-      "gastoTotal": 583446.8799999999,
-      "proposicoes": "6"
+      "gastoTotal": 583827.0399999999,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "160976",
@@ -18641,7 +18641,7 @@
       "gastoMenor": 0,
       "gastoMaior": 54396,
       "gastoTotal": 287275.22000000003,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "160558",
@@ -18787,19 +18787,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 27300
+              "valor": 27622.26
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 0
+              "valor": 322.26
           }
       ],
-      "gastoMedio": 33536.91192307692,
-      "gastoMenor": 0,
+      "gastoMedio": 32318.675185185184,
+      "gastoMenor": 322.26,
       "gastoMaior": 52576.29,
-      "gastoTotal": 871959.71,
-      "proposicoes": "0"
+      "gastoTotal": 872604.23,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "160545",
@@ -18957,7 +18957,7 @@
       "gastoMenor": 17251.91,
       "gastoMaior": 67462.75,
       "gastoTotal": 910016.8300000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "160532",
@@ -19108,14 +19108,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 0
+              "valor": 2043.81
           }
       ],
-      "gastoMedio": 22602.83130434783,
+      "gastoMedio": 21746.20541666667,
       "gastoMenor": 0,
       "gastoMaior": 52202.35,
-      "gastoTotal": 519865.1200000001,
-      "proposicoes": "6"
+      "gastoTotal": 521908.9300000001,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "160667",
@@ -19273,7 +19273,7 @@
       "gastoMenor": 0,
       "gastoMaior": 47003.01,
       "gastoTotal": 481489.94,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "160653",
@@ -19431,7 +19431,7 @@
       "gastoMenor": 14524.56,
       "gastoMaior": 57266.59,
       "gastoTotal": 785267.7899999999,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "160655",
@@ -19589,7 +19589,7 @@
       "gastoMenor": 3573.1,
       "gastoMaior": 92160.68,
       "gastoTotal": 640635.62,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "160589",
@@ -19740,14 +19740,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 12915.13
+              "valor": 13360.63
           }
       ],
-      "gastoMedio": 18864.193333333333,
+      "gastoMedio": 18880.693333333333,
       "gastoMenor": 11590.16,
       "gastoMaior": 36300.85,
-      "gastoTotal": 509333.22,
-      "proposicoes": "1"
+      "gastoTotal": 509778.72,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "160639",
@@ -19893,19 +19893,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 22244.38
+              "valor": 22351.8
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20776.28
+              "valor": 20883.7
           }
       ],
-      "gastoMedio": 31182.664074074073,
+      "gastoMedio": 31190.621111111108,
       "gastoMenor": 5972.59,
       "gastoMaior": 145035.4,
-      "gastoTotal": 841931.9299999999,
-      "proposicoes": "16"
+      "gastoTotal": 842146.7699999999,
+      "proposicoes": 19
   },
   {
       "ideCadastro": "162332",
@@ -20063,7 +20063,7 @@
       "gastoMenor": 7913.11,
       "gastoMaior": 68504.46,
       "gastoTotal": 928237.81,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "75431",
@@ -20204,24 +20204,24 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 15341.66
+              "valor": 15406.83
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 19904.03
+              "valor": 21585.7
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 904.15
+              "valor": 7272.43
           }
       ],
-      "gastoMedio": 24254.169629629632,
-      "gastoMenor": 904.15,
+      "gastoMedio": 24554.729629629626,
+      "gastoMenor": 7272.43,
       "gastoMaior": 63345.19,
-      "gastoTotal": 654862.5800000001,
-      "proposicoes": "3"
+      "gastoTotal": 662977.7,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "92776",
@@ -20379,7 +20379,7 @@
       "gastoMenor": 18989.33,
       "gastoMaior": 64115.48,
       "gastoTotal": 861349.6299999999,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "164359",
@@ -20537,7 +20537,7 @@
       "gastoMenor": 1488.18,
       "gastoMaior": 18959.94,
       "gastoTotal": 308568.70999999996,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "164360",
@@ -20695,7 +20695,7 @@
       "gastoMenor": 0,
       "gastoMaior": 38524.98,
       "gastoTotal": 448802.67000000016,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "166402",
@@ -20853,7 +20853,7 @@
       "gastoMenor": 0,
       "gastoMaior": 45533.56,
       "gastoTotal": 865099.0900000001,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "171617",
@@ -21011,7 +21011,7 @@
       "gastoMenor": 13842.49,
       "gastoMaior": 58089,
       "gastoTotal": 779184.7799999998,
-      "proposicoes": "15"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "171623",
@@ -21169,7 +21169,7 @@
       "gastoMenor": 10331.94,
       "gastoMaior": 100208.1,
       "gastoTotal": 937084.3899999998,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "177282",
@@ -21310,7 +21310,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 20647.15
+              "valor": 21429.62
           },
           {
               "ano": 2021,
@@ -21323,11 +21323,11 @@
               "valor": 13305.09
           }
       ],
-      "gastoMedio": 28797.2262962963,
+      "gastoMedio": 28826.20666666667,
       "gastoMenor": 13269.1,
       "gastoMaior": 193910.4,
-      "gastoTotal": 777525.1100000001,
-      "proposicoes": "16"
+      "gastoTotal": 778307.5800000001,
+      "proposicoes": 15
   },
   {
       "ideCadastro": "204422",
@@ -21478,14 +21478,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 23362.37
+              "valor": 31662.27
           }
       ],
-      "gastoMedio": 37520.92555555556,
+      "gastoMedio": 37828.32925925926,
       "gastoMenor": 16901.53,
       "gastoMaior": 85872.14,
-      "gastoTotal": 1013064.99,
-      "proposicoes": "11"
+      "gastoTotal": 1021364.89,
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204480",
@@ -21643,7 +21643,7 @@
       "gastoMenor": 6650.84,
       "gastoMaior": 162720.04,
       "gastoTotal": 855355.98,
-      "proposicoes": "72"
+      "proposicoes": 68
   },
   {
       "ideCadastro": "178829",
@@ -21801,7 +21801,7 @@
       "gastoMenor": 23255.16,
       "gastoMaior": 44113.42,
       "gastoTotal": 949843.79,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178831",
@@ -21959,7 +21959,7 @@
       "gastoMenor": 10915.97,
       "gastoMaior": 78921.59,
       "gastoTotal": 1043661.55,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204385",
@@ -22100,7 +22100,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 9647.21
+              "valor": 11875.68
           },
           {
               "ano": 2021,
@@ -22110,14 +22110,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 4610.02
+              "valor": 5153.95
           }
       ],
-      "gastoMedio": 23369.015555555554,
-      "gastoMenor": 4610.02,
+      "gastoMedio": 23471.697037037036,
+      "gastoMenor": 4760,
       "gastoMaior": 69038.76,
-      "gastoTotal": 630963.4199999999,
-      "proposicoes": "3"
+      "gastoTotal": 633735.82,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178832",
@@ -22275,7 +22275,7 @@
       "gastoMenor": 18117.04,
       "gastoMaior": 36227.48,
       "gastoTotal": 703135.85,
-      "proposicoes": "11"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "178835",
@@ -22426,14 +22426,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 38995.35
+              "valor": 40205.82
           }
       ],
-      "gastoMedio": 36604.61481481481,
+      "gastoMedio": 36649.44703703703,
       "gastoMenor": 20307.27,
       "gastoMaior": 60921.03,
-      "gastoTotal": 988324.5999999999,
-      "proposicoes": "1"
+      "gastoTotal": 989535.0699999998,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "74646",
@@ -22591,7 +22591,7 @@
       "gastoMenor": 12080.96,
       "gastoMaior": 41029.13,
       "gastoTotal": 708820.0699999998,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "133968",
@@ -22742,14 +22742,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 28161.76
+              "valor": 30361.86
           }
       ],
-      "gastoMedio": 30603.31111111111,
+      "gastoMedio": 30684.796296296296,
       "gastoMenor": 11273.07,
       "gastoMaior": 57106.18,
-      "gastoTotal": 826289.4,
-      "proposicoes": "14"
+      "gastoTotal": 828489.5,
+      "proposicoes": 9
   },
   {
       "ideCadastro": "74478",
@@ -22907,7 +22907,7 @@
       "gastoMenor": 4302.87,
       "gastoMaior": 30432.01,
       "gastoTotal": 387050.13999999996,
-      "proposicoes": "62"
+      "proposicoes": 64
   },
   {
       "ideCadastro": "73604",
@@ -23058,14 +23058,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 4542.36
+              "valor": 4858.89
           }
       ],
-      "gastoMedio": 31855.250370370366,
-      "gastoMenor": 4542.36,
+      "gastoMedio": 31866.9737037037,
+      "gastoMenor": 4858.89,
       "gastoMaior": 94354.63,
-      "gastoTotal": 860091.7599999999,
-      "proposicoes": "16"
+      "gastoTotal": 860408.2899999999,
+      "proposicoes": 15
   },
   {
       "ideCadastro": "178836",
@@ -23223,7 +23223,7 @@
       "gastoMenor": 19223.48,
       "gastoMaior": 64517.31,
       "gastoTotal": 1042786.1199999999,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178839",
@@ -23381,7 +23381,7 @@
       "gastoMenor": 23286.52,
       "gastoMaior": 83308.34,
       "gastoTotal": 1222686.78,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178843",
@@ -23532,14 +23532,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 806.45
+              "valor": 1844.5
           }
       ],
-      "gastoMedio": 36662.853333333325,
-      "gastoMenor": 806.45,
+      "gastoMedio": 36701.29962962962,
+      "gastoMenor": 1844.5,
       "gastoMaior": 132600.75,
-      "gastoTotal": 989897.0399999997,
-      "proposicoes": "3"
+      "gastoTotal": 990935.0899999997,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178866",
@@ -23697,7 +23697,7 @@
       "gastoMenor": 0,
       "gastoMaior": 73932.21,
       "gastoTotal": 888172.96,
-      "proposicoes": "20"
+      "proposicoes": 24
   },
   {
       "ideCadastro": "178871",
@@ -23848,14 +23848,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 23865.25
+              "valor": 24695.25
           }
       ],
-      "gastoMedio": 30259.42296296295,
+      "gastoMedio": 30290.163703703693,
       "gastoMenor": 19955.48,
       "gastoMaior": 49215.62,
-      "gastoTotal": 817004.4199999997,
-      "proposicoes": "6"
+      "gastoTotal": 817834.4199999997,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "178873",
@@ -24013,7 +24013,7 @@
       "gastoMenor": 7967.29,
       "gastoMaior": 40679.17,
       "gastoTotal": 705787.9300000002,
-      "proposicoes": "25"
+      "proposicoes": 25
   },
   {
       "ideCadastro": "178876",
@@ -24171,7 +24171,7 @@
       "gastoMenor": 15335.82,
       "gastoMaior": 65112.28,
       "gastoTotal": 797628.4399999997,
-      "proposicoes": "14"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "178879",
@@ -24329,7 +24329,7 @@
       "gastoMenor": 17753.94,
       "gastoMaior": 53374.51,
       "gastoTotal": 759132.54,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178895",
@@ -24487,7 +24487,7 @@
       "gastoMenor": 0,
       "gastoMaior": 85813.1,
       "gastoTotal": 932774.9099999998,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178896",
@@ -24645,7 +24645,7 @@
       "gastoMenor": 9869.53,
       "gastoMaior": 98526.54,
       "gastoTotal": 760003.7200000001,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178908",
@@ -24791,19 +24791,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 54343.49
+              "valor": 66343.49
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 45749.11
+              "valor": 58249.11
           }
       ],
-      "gastoMedio": 41111.6014814815,
+      "gastoMedio": 42019.00888888891,
       "gastoMenor": 2727.06,
       "gastoMaior": 165486.81,
-      "gastoTotal": 1110013.2400000005,
-      "proposicoes": "0"
+      "gastoTotal": 1134513.2400000005,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178909",
@@ -24961,7 +24961,7 @@
       "gastoMenor": 10456.37,
       "gastoMaior": 77173.53,
       "gastoTotal": 986668.8399999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178910",
@@ -25119,7 +25119,7 @@
       "gastoMenor": 979.33,
       "gastoMaior": 56546.18,
       "gastoTotal": 587375.85,
-      "proposicoes": "6"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "178916",
@@ -25277,7 +25277,7 @@
       "gastoMenor": 4122.66,
       "gastoMaior": 59355.22,
       "gastoTotal": 729170.4600000003,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "72442",
@@ -25418,7 +25418,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 3756.28
+              "valor": 6096.85
           },
           {
               "ano": 2021,
@@ -25431,11 +25431,11 @@
               "valor": 0
           }
       ],
-      "gastoMedio": 15467.56875,
+      "gastoMedio": 15613.854375,
       "gastoMenor": -2045.05,
       "gastoMaior": 32763.33,
-      "gastoTotal": 247481.1,
-      "proposicoes": "18"
+      "gastoTotal": 249821.67,
+      "proposicoes": 18
   },
   {
       "ideCadastro": "178920",
@@ -25593,7 +25593,7 @@
       "gastoMenor": 13664.08,
       "gastoMaior": 122453.8,
       "gastoTotal": 1058948.4899999998,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178921",
@@ -25744,14 +25744,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 36556.58
+              "valor": 47521.58
           }
       ],
-      "gastoMedio": 41656.61444444445,
+      "gastoMedio": 42062.72555555556,
       "gastoMenor": 17864.82,
       "gastoMaior": 84617.4,
-      "gastoTotal": 1124728.59,
-      "proposicoes": "3"
+      "gastoTotal": 1135693.59,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178922",
@@ -25909,7 +25909,7 @@
       "gastoMenor": 2718.25,
       "gastoMaior": 54192.93,
       "gastoTotal": 831987.7499999999,
-      "proposicoes": "6"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "178924",
@@ -26067,7 +26067,7 @@
       "gastoMenor": -27.03,
       "gastoMaior": 40590.49,
       "gastoTotal": 302240.39999999997,
-      "proposicoes": "12"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "178925",
@@ -26218,14 +26218,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 14226.36
+              "valor": 14486.47
           }
       ],
-      "gastoMedio": 22714.62518518518,
+      "gastoMedio": 22724.258888888886,
       "gastoMenor": 11152.03,
       "gastoMaior": 44334.76,
-      "gastoTotal": 613294.8799999999,
-      "proposicoes": "39"
+      "gastoTotal": 613554.9899999999,
+      "proposicoes": 38
   },
   {
       "ideCadastro": "178927",
@@ -26376,14 +26376,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 7267.19
+              "valor": 7661.66
           }
       ],
-      "gastoMedio": 29707.653333333325,
-      "gastoMenor": 7267.19,
+      "gastoMedio": 29722.26333333333,
+      "gastoMenor": 7393.56,
       "gastoMaior": 55550.15,
-      "gastoTotal": 802106.6399999998,
-      "proposicoes": "2"
+      "gastoTotal": 802501.1099999999,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178928",
@@ -26534,14 +26534,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 16516.18
+              "valor": 16888.7
           }
       ],
-      "gastoMedio": 27868.97666666667,
+      "gastoMedio": 27882.773703703704,
       "gastoMenor": 582.28,
       "gastoMaior": 139533.23,
-      "gastoTotal": 752462.3700000001,
-      "proposicoes": "21"
+      "gastoTotal": 752834.89,
+      "proposicoes": 28
   },
   {
       "ideCadastro": "178929",
@@ -26699,7 +26699,7 @@
       "gastoMenor": 7406.27,
       "gastoMaior": 31857.52,
       "gastoTotal": 508332.63000000006,
-      "proposicoes": "20"
+      "proposicoes": 20
   },
   {
       "ideCadastro": "132504",
@@ -26857,7 +26857,7 @@
       "gastoMenor": 7536.32,
       "gastoMaior": 98608.54,
       "gastoTotal": 974270.2,
-      "proposicoes": "12"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "178931",
@@ -26998,7 +26998,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 28310.86
+              "valor": 33679.82
           },
           {
               "ano": 2021,
@@ -27011,11 +27011,11 @@
               "valor": 11439.03
           }
       ],
-      "gastoMedio": 28742.367407407408,
+      "gastoMedio": 28941.21777777778,
       "gastoMenor": 11439.03,
       "gastoMaior": 56893.9,
-      "gastoTotal": 776043.92,
-      "proposicoes": "4"
+      "gastoTotal": 781412.88,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "178933",
@@ -27173,7 +27173,7 @@
       "gastoMenor": 22852.89,
       "gastoMaior": 61148.35,
       "gastoTotal": 969808.52,
-      "proposicoes": "2"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178934",
@@ -27331,7 +27331,7 @@
       "gastoMenor": 7374.96,
       "gastoMaior": 58090.27,
       "gastoTotal": 951222.1099999999,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178937",
@@ -27489,7 +27489,7 @@
       "gastoMenor": 0,
       "gastoMaior": 47390.22,
       "gastoTotal": 436983.36999999994,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178939",
@@ -27647,7 +27647,7 @@
       "gastoMenor": 0,
       "gastoMaior": 54066.31,
       "gastoTotal": 369472.1000000002,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178945",
@@ -27805,7 +27805,7 @@
       "gastoMenor": 465.72,
       "gastoMaior": 56448.17,
       "gastoTotal": 721202.3499999999,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "178946",
@@ -27946,7 +27946,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 14985.39
+              "valor": 22927.17
           },
           {
               "ano": 2021,
@@ -27956,14 +27956,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 12135.44
+              "valor": 13256.44
           }
       ],
-      "gastoMedio": 23271.53444444444,
+      "gastoMedio": 23607.192962962963,
       "gastoMenor": 8413.73,
       "gastoMaior": 47868.72,
-      "gastoTotal": 628331.4299999999,
-      "proposicoes": "2"
+      "gastoTotal": 637394.21,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178947",
@@ -28104,7 +28104,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 34400.93
+              "valor": 35732.36
           },
           {
               "ano": 2021,
@@ -28117,11 +28117,11 @@
               "valor": 3217.21
           }
       ],
-      "gastoMedio": 28410.205555555553,
+      "gastoMedio": 28459.51777777777,
       "gastoMenor": 3217.21,
       "gastoMaior": 84943.51,
-      "gastoTotal": 767075.5499999999,
-      "proposicoes": "8"
+      "gastoTotal": 768406.9799999999,
+      "proposicoes": 8
   },
   {
       "ideCadastro": "178951",
@@ -28279,7 +28279,7 @@
       "gastoMenor": 2976.51,
       "gastoMaior": 57306.35,
       "gastoTotal": 807706.0000000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178952",
@@ -28430,14 +28430,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6879.12
+              "valor": 15450.94
           }
       ],
-      "gastoMedio": 33612.07962962962,
-      "gastoMenor": 6879.12,
+      "gastoMedio": 33929.55444444443,
+      "gastoMenor": 15450.94,
       "gastoMaior": 52178.44,
-      "gastoTotal": 907526.1499999997,
-      "proposicoes": "1"
+      "gastoTotal": 916097.9699999996,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178953",
@@ -28595,7 +28595,7 @@
       "gastoMenor": 1965.53,
       "gastoMaior": 67586.57,
       "gastoTotal": 507006.51000000007,
-      "proposicoes": "3"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178954",
@@ -28753,7 +28753,7 @@
       "gastoMenor": 9563.66,
       "gastoMaior": 59841.2,
       "gastoTotal": 713023.5100000001,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "178956",
@@ -28894,7 +28894,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 17622.67
+              "valor": 19963.24
           },
           {
               "ano": 2021,
@@ -28907,11 +28907,11 @@
               "valor": 6913.3
           }
       ],
-      "gastoMedio": 19689.31703703704,
+      "gastoMedio": 19776.004814814816,
       "gastoMenor": 6913.3,
       "gastoMaior": 47210.28,
-      "gastoTotal": 531611.56,
-      "proposicoes": "6"
+      "gastoTotal": 533952.13,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "178959",
@@ -29069,7 +29069,7 @@
       "gastoMenor": 13086.99,
       "gastoMaior": 61194.54,
       "gastoTotal": 911954.2499999999,
-      "proposicoes": "1"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178961",
@@ -29227,7 +29227,7 @@
       "gastoMenor": 14457.58,
       "gastoMaior": 88422.15,
       "gastoTotal": 986955.7400000001,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178962",
@@ -29378,14 +29378,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6305.9
+              "valor": 10020.4
           }
       ],
-      "gastoMedio": 16958.92296296297,
-      "gastoMenor": 6305.9,
+      "gastoMedio": 17096.497037037043,
+      "gastoMenor": 8111.21,
       "gastoMaior": 44687.64,
-      "gastoTotal": 457890.92000000016,
-      "proposicoes": "1"
+      "gastoTotal": 461605.42000000016,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178963",
@@ -29543,7 +29543,7 @@
       "gastoMenor": 0,
       "gastoMaior": 24363.98,
       "gastoTotal": 58323.649999999994,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178964",
@@ -29689,19 +29689,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 14880.91
+              "valor": 16237.91
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 5517.9
+              "valor": 9858.29
           }
       ],
-      "gastoMedio": 22790.70592592593,
-      "gastoMenor": 5517.9,
+      "gastoMedio": 23001.720370370374,
+      "gastoMenor": 9858.29,
       "gastoMaior": 63962.9,
-      "gastoTotal": 615349.06,
-      "proposicoes": "3"
+      "gastoTotal": 621046.4500000001,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178966",
@@ -29859,7 +29859,7 @@
       "gastoMenor": 14608.75,
       "gastoMaior": 55717.98,
       "gastoTotal": 757836.72,
-      "proposicoes": "12"
+      "proposicoes": 12
   },
   {
       "ideCadastro": "178969",
@@ -30000,7 +30000,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 35868.9
+              "valor": 37495.01
           },
           {
               "ano": 2021,
@@ -30013,11 +30013,11 @@
               "valor": 36527.66
           }
       ],
-      "gastoMedio": 37603.938148148154,
+      "gastoMedio": 37664.16444444445,
       "gastoMenor": 24245.24,
       "gastoMaior": 57679.83,
-      "gastoTotal": 1015306.3300000001,
-      "proposicoes": "7"
+      "gastoTotal": 1016932.4400000001,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "178970",
@@ -30175,7 +30175,7 @@
       "gastoMenor": 8939.42,
       "gastoMaior": 56613.6,
       "gastoTotal": 1092378.36,
-      "proposicoes": "52"
+      "proposicoes": 52
   },
   {
       "ideCadastro": "178972",
@@ -30316,24 +30316,24 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 36442.91
+              "valor": 37126.43
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 18974.05
+              "valor": 18942.48
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 5633.4
+              "valor": 10054.56
           }
       ],
-      "gastoMedio": 33297.69703703703,
-      "gastoMenor": 5633.4,
+      "gastoMedio": 33485.59,
+      "gastoMenor": 6328.48,
       "gastoMaior": 168876.45,
-      "gastoTotal": 899037.8199999998,
-      "proposicoes": "9"
+      "gastoTotal": 904110.9299999998,
+      "proposicoes": 9
   },
   {
       "ideCadastro": "178975",
@@ -30491,7 +30491,7 @@
       "gastoMenor": 16014.77,
       "gastoMaior": 42679.15,
       "gastoTotal": 709267.2600000001,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "92346",
@@ -30642,14 +30642,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 9178.87
+              "valor": 18927.14
           }
       ],
-      "gastoMedio": 26482.303333333326,
+      "gastoMedio": 26843.350370370365,
       "gastoMenor": 4765.24,
       "gastoMaior": 74936.23,
-      "gastoTotal": 715022.1899999998,
-      "proposicoes": "1"
+      "gastoTotal": 724770.4599999998,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178977",
@@ -30800,14 +30800,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20628.44
+              "valor": 21009.24
           }
       ],
-      "gastoMedio": 27746.995185185184,
+      "gastoMedio": 27761.09888888889,
       "gastoMenor": 14198.52,
       "gastoMaior": 46109,
-      "gastoTotal": 749168.87,
-      "proposicoes": "22"
+      "gastoTotal": 749549.67,
+      "proposicoes": 22
   },
   {
       "ideCadastro": "66828",
@@ -30965,7 +30965,7 @@
       "gastoMenor": 8671.05,
       "gastoMaior": 46842.8,
       "gastoTotal": 536632.9900000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178981",
@@ -31123,7 +31123,7 @@
       "gastoMenor": 29406.28,
       "gastoMaior": 44692.41,
       "gastoTotal": 991105.29,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178983",
@@ -31281,7 +31281,7 @@
       "gastoMenor": 0,
       "gastoMaior": 34075.58,
       "gastoTotal": 182909.78999999992,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178985",
@@ -31432,14 +31432,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 14605.73
+              "valor": 14787.75
           }
       ],
-      "gastoMedio": 18412.007037037038,
+      "gastoMedio": 18418.74851851852,
       "gastoMenor": 5983.27,
       "gastoMaior": 45986.22,
-      "gastoTotal": 497124.19000000006,
-      "proposicoes": "3"
+      "gastoTotal": 497306.2100000001,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178986",
@@ -31597,7 +31597,7 @@
       "gastoMenor": 18708.2,
       "gastoMaior": 46180.73,
       "gastoTotal": 826966.3899999999,
-      "proposicoes": "49"
+      "proposicoes": 48
   },
   {
       "ideCadastro": "178987",
@@ -31755,7 +31755,7 @@
       "gastoMenor": 12994.14,
       "gastoMaior": 90818.42,
       "gastoTotal": 959347.59,
-      "proposicoes": "10"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "178989",
@@ -31913,7 +31913,7 @@
       "gastoMenor": -623.69,
       "gastoMaior": 53745.89,
       "gastoTotal": 613552.97,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "178990",
@@ -32071,7 +32071,7 @@
       "gastoMenor": 14517.19,
       "gastoMaior": 44878.07,
       "gastoTotal": 827657.1300000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178992",
@@ -32229,7 +32229,7 @@
       "gastoMenor": 15144.71,
       "gastoMaior": 53265.23,
       "gastoTotal": 758813.8699999999,
-      "proposicoes": "9"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "178993",
@@ -32370,7 +32370,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 27121.86
+              "valor": 29466.92
           },
           {
               "ano": 2021,
@@ -32383,11 +32383,11 @@
               "valor": 27428.6
           }
       ],
-      "gastoMedio": 31860.82703703703,
+      "gastoMedio": 31947.681111111106,
       "gastoMenor": 19133.51,
       "gastoMaior": 72838.89,
-      "gastoTotal": 860242.3299999998,
-      "proposicoes": "5"
+      "gastoTotal": 862587.3899999999,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "178994",
@@ -32545,7 +32545,7 @@
       "gastoMenor": 10593.52,
       "gastoMaior": 47144.2,
       "gastoTotal": 914587.63,
-      "proposicoes": "6"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "137070",
@@ -32703,7 +32703,7 @@
       "gastoMenor": 30344.29,
       "gastoMaior": 51677.36,
       "gastoTotal": 1061255.2800000003,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "178996",
@@ -32849,19 +32849,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 9091.25
+              "valor": 9291.27
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 3037.61
+              "valor": 3287.66
           }
       ],
-      "gastoMedio": 15918.84037037037,
+      "gastoMedio": 15935.50962962963,
       "gastoMenor": 2226.83,
       "gastoMaior": 39064.46,
-      "gastoTotal": 429808.69,
-      "proposicoes": "2"
+      "gastoTotal": 430258.76,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178997",
@@ -33012,14 +33012,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 25563.91
+              "valor": 30166.12
           }
       ],
-      "gastoMedio": 34203.24307692308,
+      "gastoMedio": 34380.251153846155,
       "gastoMenor": -3738.63,
       "gastoMaior": 80933.3,
-      "gastoTotal": 889284.3200000001,
-      "proposicoes": "2"
+      "gastoTotal": 893886.53,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "179000",
@@ -33177,7 +33177,7 @@
       "gastoMenor": 0,
       "gastoMaior": 26110.98,
       "gastoTotal": 65904.45,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "146788",
@@ -33335,7 +33335,7 @@
       "gastoMenor": 10888.46,
       "gastoMaior": 61116.78,
       "gastoTotal": 749594.3399999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "179001",
@@ -33493,7 +33493,7 @@
       "gastoMenor": 14187.42,
       "gastoMaior": 47151.52,
       "gastoTotal": 776132.6700000002,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204434",
@@ -33651,7 +33651,7 @@
       "gastoMenor": 16659.04,
       "gastoMaior": 98309.34,
       "gastoTotal": 1114384.14,
-      "proposicoes": "7"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "194260",
@@ -33809,7 +33809,7 @@
       "gastoMenor": 28950.45,
       "gastoMaior": 48599.71,
       "gastoTotal": 1028161.9400000002,
-      "proposicoes": "6"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "195866",
@@ -33960,14 +33960,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 38348.58
+              "valor": 40522.96
           }
       ],
-      "gastoMedio": 39246.1336,
+      "gastoMedio": 39333.1088,
       "gastoMenor": 0,
       "gastoMaior": 87601.88,
-      "gastoTotal": 981153.3400000001,
-      "proposicoes": "0"
+      "gastoTotal": 983327.7200000001,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204481",
@@ -34125,7 +34125,7 @@
       "gastoMenor": 5289.43,
       "gastoMaior": 68249.02,
       "gastoTotal": 892435.9900000001,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "66179",
@@ -34283,7 +34283,7 @@
       "gastoMenor": 6858.33,
       "gastoMaior": 27354.69,
       "gastoTotal": 510762.9,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204386",
@@ -34441,7 +34441,7 @@
       "gastoMenor": 3490.54,
       "gastoMaior": 37440.44,
       "gastoTotal": 591014.76,
-      "proposicoes": "11"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "204351",
@@ -34587,19 +34587,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 28568.65
+              "valor": 28750.65
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 25742.55
+              "valor": 26543.96
           }
       ],
-      "gastoMedio": 18322.968888888885,
+      "gastoMedio": 18359.391481481478,
       "gastoMenor": 7915.69,
       "gastoMaior": 32624.87,
-      "gastoTotal": 494720.1599999999,
-      "proposicoes": "1"
+      "gastoTotal": 495703.56999999995,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204482",
@@ -34757,7 +34757,7 @@
       "gastoMenor": 12980.17,
       "gastoMaior": 97450,
       "gastoTotal": 970921.47,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204483",
@@ -34915,7 +34915,7 @@
       "gastoMenor": 976.31,
       "gastoMaior": 73744.73,
       "gastoTotal": 448967.1499999999,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "193726",
@@ -35073,7 +35073,7 @@
       "gastoMenor": 0,
       "gastoMaior": 14255.4,
       "gastoTotal": 96258.04000000001,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204387",
@@ -35231,7 +35231,7 @@
       "gastoMenor": 3445.56,
       "gastoMaior": 38966.91,
       "gastoTotal": 466933.63,
-      "proposicoes": "1"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "92699",
@@ -35372,7 +35372,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 26961.39
+              "valor": 29696.79
           },
           {
               "ano": 2021,
@@ -35385,11 +35385,11 @@
               "valor": 24089.97
           }
       ],
-      "gastoMedio": 29350.01888888888,
+      "gastoMedio": 29451.32999999999,
       "gastoMenor": 11966.12,
       "gastoMaior": 56836.5,
-      "gastoTotal": 792450.5099999998,
-      "proposicoes": "1"
+      "gastoTotal": 795185.9099999998,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "191923",
@@ -35547,7 +35547,7 @@
       "gastoMenor": 2341.29,
       "gastoMaior": 57413.5,
       "gastoTotal": 1067444.45,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "196358",
@@ -35705,7 +35705,7 @@
       "gastoMenor": 4623.76,
       "gastoMaior": 58457.92,
       "gastoTotal": 678732.64,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204388",
@@ -35846,7 +35846,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 16820.93
+              "valor": 18594.52
           },
           {
               "ano": 2021,
@@ -35856,14 +35856,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 14859.29
+              "valor": 15123.89
           }
       ],
-      "gastoMedio": 24901.74333333334,
+      "gastoMedio": 24977.231851851855,
       "gastoMenor": 9573.53,
       "gastoMaior": 135776.85,
-      "gastoTotal": 672347.0700000002,
-      "proposicoes": "8"
+      "gastoTotal": 674385.2600000001,
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204484",
@@ -36021,7 +36021,7 @@
       "gastoMenor": 10173.55,
       "gastoMaior": 54322.35,
       "gastoTotal": 535661.15,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204485",
@@ -36179,7 +36179,7 @@
       "gastoMenor": 9242.26,
       "gastoMaior": 28774.21,
       "gastoTotal": 448741.64999999997,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204435",
@@ -36265,7 +36265,7 @@
           {
               "ano": 2020,
               "mes": 3,
-              "valor": 37061.07
+              "valor": 37033.91
           },
           {
               "ano": 2020,
@@ -36333,11 +36333,11 @@
               "valor": 43973.24
           }
       ],
-      "gastoMedio": 43958.25407407408,
+      "gastoMedio": 43957.24814814815,
       "gastoMenor": 15655.09,
       "gastoMaior": 76096.91,
-      "gastoTotal": 1186872.86,
-      "proposicoes": "12"
+      "gastoTotal": 1186845.7000000002,
+      "proposicoes": 12
   },
   {
       "ideCadastro": "204436",
@@ -36495,7 +36495,7 @@
       "gastoMenor": 2408.24,
       "gastoMaior": 65537.45,
       "gastoTotal": 820489.0199999999,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204437",
@@ -36636,7 +36636,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 25906.16
+              "valor": 27767.09
           },
           {
               "ano": 2021,
@@ -36649,11 +36649,11 @@
               "valor": 0
           }
       ],
-      "gastoMedio": 34709.30730769231,
+      "gastoMedio": 34780.88153846154,
       "gastoMenor": 0,
       "gastoMaior": 89566.82,
-      "gastoTotal": 902441.99,
-      "proposicoes": "6"
+      "gastoTotal": 904302.9199999999,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204438",
@@ -36804,14 +36804,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 4500
+              "valor": 6951.4
           }
       ],
-      "gastoMedio": 35383.32111111112,
-      "gastoMenor": 4500,
+      "gastoMedio": 35474.11370370371,
+      "gastoMenor": 6951.4,
       "gastoMaior": 116678.06,
-      "gastoTotal": 955349.6700000003,
-      "proposicoes": "1"
+      "gastoTotal": 957801.0700000003,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204352",
@@ -36957,19 +36957,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 36979.33
+              "valor": 37433.06
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 30167.83
+              "valor": 30632.62
           }
       ],
-      "gastoMedio": 39798.66814814814,
+      "gastoMedio": 39832.6874074074,
       "gastoMenor": 29724.11,
       "gastoMaior": 53746.19,
-      "gastoTotal": 1074564.0399999998,
-      "proposicoes": "15"
+      "gastoTotal": 1075482.5599999998,
+      "proposicoes": 15
   },
   {
       "ideCadastro": "204353",
@@ -37127,7 +37127,7 @@
       "gastoMenor": 12735.71,
       "gastoMaior": 64456.17,
       "gastoTotal": 1121188.88,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204487",
@@ -37285,7 +37285,7 @@
       "gastoMenor": 0,
       "gastoMaior": 95720.88,
       "gastoTotal": 697796.6300000001,
-      "proposicoes": "14"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "204488",
@@ -37443,7 +37443,7 @@
       "gastoMenor": 2222.7,
       "gastoMaior": 34295.37,
       "gastoTotal": 477246.36,
-      "proposicoes": "25"
+      "proposicoes": 24
   },
   {
       "ideCadastro": "204355",
@@ -37601,7 +37601,7 @@
       "gastoMenor": 24038.66,
       "gastoMaior": 61889.65,
       "gastoTotal": 923944.4,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204356",
@@ -37742,7 +37742,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 25083.63
+              "valor": 26006.94
           },
           {
               "ano": 2021,
@@ -37755,11 +37755,11 @@
               "valor": 1338.74
           }
       ],
-      "gastoMedio": 14373.710740740737,
+      "gastoMedio": 14407.907407407403,
       "gastoMenor": 1338.74,
       "gastoMaior": 38261.52,
-      "gastoTotal": 388090.1899999999,
-      "proposicoes": "3"
+      "gastoTotal": 389013.4999999999,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204389",
@@ -37917,7 +37917,7 @@
       "gastoMenor": 2296.64,
       "gastoMaior": 26449.5,
       "gastoTotal": 246954.47,
-      "proposicoes": "16"
+      "proposicoes": 18
   },
   {
       "ideCadastro": "204390",
@@ -38068,14 +38068,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 26990
+              "valor": 38706.3
           }
       ],
-      "gastoMedio": 36233.87444444446,
+      "gastoMedio": 36667.8114814815,
       "gastoMenor": 116.43,
       "gastoMaior": 47307.84,
-      "gastoTotal": 978314.6100000003,
-      "proposicoes": "0"
+      "gastoTotal": 990030.9100000004,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204391",
@@ -38233,7 +38233,7 @@
       "gastoMenor": 0,
       "gastoMaior": 100711.85,
       "gastoTotal": 753234.2000000001,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204392",
@@ -38391,7 +38391,7 @@
       "gastoMenor": 8716.11,
       "gastoMaior": 69002.7,
       "gastoTotal": 849561.86,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204490",
@@ -38549,7 +38549,7 @@
       "gastoMenor": 1845.21,
       "gastoMaior": 38466.88,
       "gastoTotal": 680840.74,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204491",
@@ -38680,7 +38680,7 @@
           {
               "ano": 2020,
               "mes": 12,
-              "valor": 109410.46
+              "valor": 110250.98
           },
           {
               "ano": 2021,
@@ -38703,11 +38703,11 @@
               "valor": 14453.3
           }
       ],
-      "gastoMedio": 29643.14222222222,
+      "gastoMedio": 29674.27259259259,
       "gastoMenor": 5019.79,
-      "gastoMaior": 109410.46,
-      "gastoTotal": 800364.84,
-      "proposicoes": "3"
+      "gastoMaior": 110250.98,
+      "gastoTotal": 801205.36,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204492",
@@ -38865,7 +38865,7 @@
       "gastoMenor": 15641.14,
       "gastoMaior": 73681.93,
       "gastoTotal": 921237.2,
-      "proposicoes": "13"
+      "proposicoes": 12
   },
   {
       "ideCadastro": "198197",
@@ -39023,7 +39023,7 @@
       "gastoMenor": 0,
       "gastoMaior": 17674.19,
       "gastoTotal": 231168.2,
-      "proposicoes": "10"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "98057",
@@ -39174,14 +39174,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 31352.05
+              "valor": 31482.05
           }
       ],
-      "gastoMedio": 35961.30074074074,
+      "gastoMedio": 35966.11555555555,
       "gastoMenor": 20127.47,
       "gastoMaior": 101455.55,
-      "gastoTotal": 970955.12,
-      "proposicoes": "5"
+      "gastoTotal": 971085.12,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "161550",
@@ -39339,7 +39339,7 @@
       "gastoMenor": 8085.4,
       "gastoMaior": 170787.79,
       "gastoTotal": 840254.18,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204494",
@@ -39497,7 +39497,7 @@
       "gastoMenor": 10092.57,
       "gastoMaior": 59040.16,
       "gastoTotal": 703179.1000000001,
-      "proposicoes": "21"
+      "proposicoes": 24
   },
   {
       "ideCadastro": "204357",
@@ -39655,7 +39655,7 @@
       "gastoMenor": 9154.48,
       "gastoMaior": 36192.62,
       "gastoTotal": 562809.1100000001,
-      "proposicoes": "6"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204358",
@@ -39806,14 +39806,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 22832.56
+              "valor": 33447.56
           }
       ],
-      "gastoMedio": 37270.450370370374,
+      "gastoMedio": 37663.59851851853,
       "gastoMenor": 2458.02,
       "gastoMaior": 103513.78,
-      "gastoTotal": 1006302.1600000001,
-      "proposicoes": "1"
+      "gastoTotal": 1016917.1600000001,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204439",
@@ -39954,7 +39954,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 48462.08
+              "valor": 50023.4
           },
           {
               "ano": 2021,
@@ -39967,11 +39967,11 @@
               "valor": 27209.81
           }
       ],
-      "gastoMedio": 31048.628148148153,
+      "gastoMedio": 31106.45481481482,
       "gastoMenor": 10419.57,
       "gastoMaior": 75007.19,
-      "gastoTotal": 838312.9600000001,
-      "proposicoes": "4"
+      "gastoTotal": 839874.2800000001,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204495",
@@ -40129,7 +40129,7 @@
       "gastoMenor": 4891.51,
       "gastoMaior": 68306.77,
       "gastoTotal": 1022280.1799999999,
-      "proposicoes": "26"
+      "proposicoes": 28
   },
   {
       "ideCadastro": "204496",
@@ -40287,7 +40287,7 @@
       "gastoMenor": 9936.76,
       "gastoMaior": 85379.08,
       "gastoTotal": 1005246.7200000002,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204497",
@@ -40445,7 +40445,7 @@
       "gastoMenor": 116.42,
       "gastoMaior": 36632.83,
       "gastoTotal": 299165.1699999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204498",
@@ -40603,7 +40603,7 @@
       "gastoMenor": 18435.38,
       "gastoMaior": 66843.74,
       "gastoTotal": 1032719.1800000002,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204499",
@@ -40744,7 +40744,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 18145.07
+              "valor": 18840.5
           },
           {
               "ano": 2021,
@@ -40757,11 +40757,11 @@
               "valor": 12260.88
           }
       ],
-      "gastoMedio": 39697.18615384615,
+      "gastoMedio": 39723.93346153846,
       "gastoMenor": 0,
       "gastoMaior": 131932.21,
-      "gastoTotal": 1032126.84,
-      "proposicoes": "2"
+      "gastoTotal": 1032822.2699999999,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204500",
@@ -40919,7 +40919,7 @@
       "gastoMenor": 16289.24,
       "gastoMaior": 77738.32,
       "gastoTotal": 1021133.2299999996,
-      "proposicoes": "12"
+      "proposicoes": 12
   },
   {
       "ideCadastro": "204393",
@@ -41077,7 +41077,7 @@
       "gastoMenor": 26298.07,
       "gastoMaior": 48272,
       "gastoTotal": 1029120.6500000003,
-      "proposicoes": "22"
+      "proposicoes": 21
   },
   {
       "ideCadastro": "204394",
@@ -41235,7 +41235,7 @@
       "gastoMenor": 4822.41,
       "gastoMaior": 46086.8,
       "gastoTotal": 480724.9699999999,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204423",
@@ -41393,7 +41393,7 @@
       "gastoMenor": 9535.99,
       "gastoMaior": 81885.18,
       "gastoTotal": 790752.31,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "157130",
@@ -41551,7 +41551,7 @@
       "gastoMenor": 16502.12,
       "gastoMaior": 72270,
       "gastoTotal": 877276.8300000001,
-      "proposicoes": "26"
+      "proposicoes": 25
   },
   {
       "ideCadastro": "204425",
@@ -41702,14 +41702,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6300.06
+              "valor": 8800.06
           }
       ],
-      "gastoMedio": 36865.380370370374,
-      "gastoMenor": 6300.06,
+      "gastoMedio": 36957.972962962966,
+      "gastoMenor": 8800.06,
       "gastoMaior": 75909.28,
-      "gastoTotal": 995365.2700000001,
-      "proposicoes": "3"
+      "gastoTotal": 997865.2700000001,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204430",
@@ -41867,7 +41867,7 @@
       "gastoMenor": 26288.71,
       "gastoMaior": 67388.12,
       "gastoTotal": 995904.9199999998,
-      "proposicoes": "16"
+      "proposicoes": 16
   },
   {
       "ideCadastro": "204431",
@@ -42025,7 +42025,7 @@
       "gastoMenor": 19840.67,
       "gastoMaior": 55773.83,
       "gastoTotal": 974643.3899999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204395",
@@ -42171,19 +42171,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 31336.44
+              "valor": 32916.44
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32552.92
+              "valor": 33441.62
           }
       ],
-      "gastoMedio": 32439.553703703707,
+      "gastoMedio": 32530.987037037037,
       "gastoMenor": 10101.79,
       "gastoMaior": 69683,
-      "gastoTotal": 875867.9500000001,
-      "proposicoes": "23"
+      "gastoTotal": 878336.65,
+      "proposicoes": 24
   },
   {
       "ideCadastro": "204396",
@@ -42314,7 +42314,7 @@
           {
               "ano": 2020,
               "mes": 12,
-              "valor": 35190.74
+              "valor": 35490.9
           },
           {
               "ano": 2021,
@@ -42337,11 +42337,11 @@
               "valor": 23589.51
           }
       ],
-      "gastoMedio": 34446.154814814814,
+      "gastoMedio": 34457.27185185185,
       "gastoMenor": -3447.98,
       "gastoMaior": 78694.36,
-      "gastoTotal": 930046.1799999999,
-      "proposicoes": "3"
+      "gastoTotal": 930346.34,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204397",
@@ -42499,7 +42499,7 @@
       "gastoMenor": 8781.01,
       "gastoMaior": 63626.21,
       "gastoTotal": 1046897.1699999999,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204398",
@@ -42657,7 +42657,7 @@
       "gastoMenor": 528.64,
       "gastoMaior": 64310.62,
       "gastoTotal": 844211.67,
-      "proposicoes": "3"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204400",
@@ -42815,7 +42815,7 @@
       "gastoMenor": 7924.1,
       "gastoMaior": 55084.98,
       "gastoTotal": 701906.24,
-      "proposicoes": "13"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "107283",
@@ -42973,7 +42973,7 @@
       "gastoMenor": 18037.59,
       "gastoMaior": 94386.14,
       "gastoTotal": 1013507.6900000001,
-      "proposicoes": "24"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "204440",
@@ -43131,7 +43131,7 @@
       "gastoMenor": 7827.32,
       "gastoMaior": 45260.98,
       "gastoTotal": 772786.8500000002,
-      "proposicoes": "12"
+      "proposicoes": 12
   },
   {
       "ideCadastro": "76874",
@@ -43282,14 +43282,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 18529.26
+              "valor": 19650.73
           }
       ],
-      "gastoMedio": 30882.786296296304,
+      "gastoMedio": 30924.32222222223,
       "gastoMenor": 11315.7,
       "gastoMaior": 50582.87,
-      "gastoTotal": 833835.2300000002,
-      "proposicoes": "16"
+      "gastoTotal": 834956.7000000002,
+      "proposicoes": 16
   },
   {
       "ideCadastro": "204441",
@@ -43447,7 +43447,7 @@
       "gastoMenor": 8250.53,
       "gastoMaior": 55277.43,
       "gastoTotal": 723469.92,
-      "proposicoes": "7"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "204442",
@@ -43598,14 +43598,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 31925.41
+              "valor": 32168.37
           }
       ],
-      "gastoMedio": 32595.411851851855,
+      "gastoMedio": 32604.410370370373,
       "gastoMenor": 10436.68,
       "gastoMaior": 53502.9,
-      "gastoTotal": 880076.1200000001,
-      "proposicoes": "12"
+      "gastoTotal": 880319.0800000001,
+      "proposicoes": 12
   },
   {
       "ideCadastro": "204444",
@@ -43763,7 +43763,7 @@
       "gastoMenor": 5000,
       "gastoMaior": 133115.39,
       "gastoTotal": 662498.96,
-      "proposicoes": "8"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "108338",
@@ -43921,7 +43921,7 @@
       "gastoMenor": 4166.95,
       "gastoMaior": 93632.48,
       "gastoTotal": 852368.6000000002,
-      "proposicoes": "6"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204359",
@@ -44079,7 +44079,7 @@
       "gastoMenor": 134.99,
       "gastoMaior": 22719.55,
       "gastoTotal": 277133.30999999994,
-      "proposicoes": "12"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "204360",
@@ -44237,7 +44237,7 @@
       "gastoMenor": 20759.75,
       "gastoMaior": 53596.25,
       "gastoTotal": 1059684.31,
-      "proposicoes": "9"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "133810",
@@ -44388,14 +44388,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 9156.67
+              "valor": 10411.56
           }
       ],
-      "gastoMedio": 16763.82925925926,
+      "gastoMedio": 16810.306666666667,
       "gastoMenor": 1078.77,
       "gastoMaior": 41919.88,
-      "gastoTotal": 452623.39,
-      "proposicoes": "0"
+      "gastoTotal": 453878.28,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204403",
@@ -44553,7 +44553,7 @@
       "gastoMenor": 15440.13,
       "gastoMaior": 56486.57,
       "gastoTotal": 883035.33,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204404",
@@ -44704,14 +44704,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 16171.29
+              "valor": 16558.34
           }
       ],
-      "gastoMedio": 17441.105185185184,
+      "gastoMedio": 17455.440370370372,
       "gastoMenor": 5307.52,
       "gastoMaior": 39668.31,
-      "gastoTotal": 470909.84,
-      "proposicoes": "6"
+      "gastoTotal": 471296.8900000001,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204405",
@@ -44869,7 +44869,7 @@
       "gastoMenor": 13695.09,
       "gastoMaior": 51295.11,
       "gastoTotal": 808126.5100000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204406",
@@ -45020,14 +45020,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 25482.88
+              "valor": 25740.67
           }
       ],
-      "gastoMedio": 33084.38481481481,
+      "gastoMedio": 33093.93259259259,
       "gastoMenor": 19830.06,
       "gastoMaior": 61939.65,
-      "gastoTotal": 893278.3899999999,
-      "proposicoes": "10"
+      "gastoTotal": 893536.1799999999,
+      "proposicoes": 10
   },
   {
       "ideCadastro": "156190",
@@ -45185,7 +45185,7 @@
       "gastoMenor": 579.98,
       "gastoMaior": 11459.27,
       "gastoTotal": 180822.2,
-      "proposicoes": "6"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204407",
@@ -45343,7 +45343,7 @@
       "gastoMenor": 4165.56,
       "gastoMaior": 41881.34,
       "gastoTotal": 572092.0099999999,
-      "proposicoes": "67"
+      "proposicoes": 68
   },
   {
       "ideCadastro": "204361",
@@ -45501,7 +45501,7 @@
       "gastoMenor": 11943.53,
       "gastoMaior": 41280.04,
       "gastoTotal": 666141.4400000002,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204362",
@@ -45642,7 +45642,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 21959.11
+              "valor": 22977.49
           },
           {
               "ano": 2021,
@@ -45655,11 +45655,11 @@
               "valor": 15323.73
           }
       ],
-      "gastoMedio": 16684.848148148143,
+      "gastoMedio": 16722.565925925923,
       "gastoMenor": 9366.99,
       "gastoMaior": 28385.66,
-      "gastoTotal": 450490.8999999999,
-      "proposicoes": "2"
+      "gastoTotal": 451509.2799999999,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "116379",
@@ -45817,7 +45817,7 @@
       "gastoMenor": -31.85,
       "gastoMaior": 42322.54,
       "gastoTotal": 650909.6200000002,
-      "proposicoes": "19"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "204408",
@@ -45968,14 +45968,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32650
+              "valor": 34199.47
           }
       ],
-      "gastoMedio": 35842.38296296297,
+      "gastoMedio": 35899.77074074075,
       "gastoMenor": 14153.07,
       "gastoMaior": 56123.31,
-      "gastoTotal": 967744.3400000002,
-      "proposicoes": "0"
+      "gastoTotal": 969293.8100000002,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204501",
@@ -46133,7 +46133,7 @@
       "gastoMenor": 9359.27,
       "gastoMaior": 70656.65,
       "gastoTotal": 902285.63,
-      "proposicoes": "20"
+      "proposicoes": 19
   },
   {
       "ideCadastro": "204502",
@@ -46291,7 +46291,7 @@
       "gastoMenor": 15495.92,
       "gastoMaior": 68631.34,
       "gastoTotal": 898797.2600000004,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204503",
@@ -46432,7 +46432,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 27427.02
+              "valor": 27762.98
           },
           {
               "ano": 2021,
@@ -46445,11 +46445,11 @@
               "valor": 27685.42
           }
       ],
-      "gastoMedio": 32835.575925925936,
+      "gastoMedio": 32848.018888888895,
       "gastoMenor": 24585.34,
       "gastoMaior": 62051.28,
-      "gastoTotal": 886560.5500000003,
-      "proposicoes": "52"
+      "gastoTotal": 886896.5100000002,
+      "proposicoes": 50
   },
   {
       "ideCadastro": "204504",
@@ -46600,14 +46600,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 26705.18
+              "valor": 31122.78
           }
       ],
-      "gastoMedio": 32998.21111111111,
+      "gastoMedio": 33161.82592592592,
       "gastoMenor": 16316.86,
       "gastoMaior": 58002.73,
-      "gastoTotal": 890951.6999999998,
-      "proposicoes": "3"
+      "gastoTotal": 895369.2999999998,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204363",
@@ -46765,7 +46765,7 @@
       "gastoMenor": 24048.47,
       "gastoMaior": 61961.81,
       "gastoTotal": 981047.36,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204364",
@@ -46923,7 +46923,7 @@
       "gastoMenor": 4757.87,
       "gastoMaior": 53776.61,
       "gastoTotal": 743529.1599999999,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "143084",
@@ -47081,7 +47081,7 @@
       "gastoMenor": 3864.78,
       "gastoMaior": 80711.58,
       "gastoTotal": 902117.65,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204505",
@@ -47222,7 +47222,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 74753.25
+              "valor": 76184.72
           },
           {
               "ano": 2021,
@@ -47235,11 +47235,11 @@
               "valor": 43632.26
           }
       ],
-      "gastoMedio": 37138.02740740742,
+      "gastoMedio": 37191.04481481482,
       "gastoMenor": 4967.68,
       "gastoMaior": 217361.14,
-      "gastoTotal": 1002726.7400000002,
-      "proposicoes": "2"
+      "gastoTotal": 1004158.2100000002,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204446",
@@ -47385,19 +47385,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 36603.14
+              "valor": 36868.42
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 18929.49
+              "valor": 36399.49
           }
       ],
-      "gastoMedio": 28932.87444444445,
+      "gastoMedio": 29589.73666666667,
       "gastoMenor": 8839.55,
       "gastoMaior": 58237.47,
-      "gastoTotal": 781187.6100000001,
-      "proposicoes": "2"
+      "gastoTotal": 798922.8900000001,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "198783",
@@ -47548,14 +47548,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 31966.99
+              "valor": 35497.8
           }
       ],
-      "gastoMedio": 23535.050370370373,
+      "gastoMedio": 23665.821111111116,
       "gastoMenor": 6435.89,
       "gastoMaior": 40093.41,
-      "gastoTotal": 635446.3600000001,
-      "proposicoes": "3"
+      "gastoTotal": 638977.1700000002,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204365",
@@ -47713,7 +47713,7 @@
       "gastoMenor": 0,
       "gastoMaior": 12391.19,
       "gastoTotal": 135999.56,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204506",
@@ -47864,14 +47864,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 17323.13
+              "valor": 29210.71
           }
       ],
-      "gastoMedio": 31943.608518518515,
+      "gastoMedio": 32383.889259259257,
       "gastoMenor": 9712.36,
       "gastoMaior": 53987.53,
-      "gastoTotal": 862477.4299999999,
-      "proposicoes": "1"
+      "gastoTotal": 874365.0099999999,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204409",
@@ -48029,7 +48029,7 @@
       "gastoMenor": 5341.96,
       "gastoMaior": 42543.37,
       "gastoTotal": 310915.73000000004,
-      "proposicoes": "2"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204507",
@@ -48170,7 +48170,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 22408.98
+              "valor": 24480.89
           },
           {
               "ano": 2021,
@@ -48183,11 +48183,11 @@
               "valor": 13142.12
           }
       ],
-      "gastoMedio": 24530.47703703703,
+      "gastoMedio": 24607.214444444442,
       "gastoMenor": 12702.17,
       "gastoMaior": 85876.66,
-      "gastoTotal": 662322.8799999999,
-      "proposicoes": "4"
+      "gastoTotal": 664394.7899999999,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204508",
@@ -48345,7 +48345,7 @@
       "gastoMenor": 3759.61,
       "gastoMaior": 79006.6,
       "gastoTotal": 838481.6599999999,
-      "proposicoes": "13"
+      "proposicoes": 16
   },
   {
       "ideCadastro": "204447",
@@ -48503,7 +48503,7 @@
       "gastoMenor": 0,
       "gastoMaior": 43738.89,
       "gastoTotal": 808371.7800000001,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204509",
@@ -48661,7 +48661,7 @@
       "gastoMenor": 6434.88,
       "gastoMaior": 67655.07,
       "gastoTotal": 610663.9400000001,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204448",
@@ -48812,14 +48812,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 29949.78
+              "valor": 31578.64
           }
       ],
-      "gastoMedio": 31558.814444444448,
+      "gastoMedio": 31619.142592592598,
       "gastoMenor": 14341.97,
       "gastoMaior": 50845.32,
-      "gastoTotal": 852087.9900000001,
-      "proposicoes": "3"
+      "gastoTotal": 853716.8500000001,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204510",
@@ -48977,7 +48977,7 @@
       "gastoMenor": 4760.95,
       "gastoMaior": 41432.03,
       "gastoTotal": 494072.5099999999,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204449",
@@ -49135,7 +49135,7 @@
       "gastoMenor": 5070.15,
       "gastoMaior": 54691.56,
       "gastoTotal": 727498.2600000001,
-      "proposicoes": "0"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204511",
@@ -49276,7 +49276,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 25990.44
+              "valor": 33117.72
           },
           {
               "ano": 2021,
@@ -49289,11 +49289,11 @@
               "valor": 20291.08
           }
       ],
-      "gastoMedio": 21508.56074074074,
+      "gastoMedio": 21772.534074074076,
       "gastoMenor": 6229.94,
       "gastoMaior": 36899.07,
-      "gastoTotal": 580731.14,
-      "proposicoes": "12"
+      "gastoTotal": 587858.42,
+      "proposicoes": 10
   },
   {
       "ideCadastro": "204450",
@@ -49439,7 +49439,7 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 19003.84
+              "valor": 19137.74
           },
           {
               "ano": 2021,
@@ -49447,11 +49447,11 @@
               "valor": 0
           }
       ],
-      "gastoMedio": 29376.690000000002,
+      "gastoMedio": 29381.840000000004,
       "gastoMenor": 0,
       "gastoMaior": 51249.92,
-      "gastoTotal": 763793.9400000001,
-      "proposicoes": "7"
+      "gastoTotal": 763927.8400000001,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204451",
@@ -49609,7 +49609,7 @@
       "gastoMenor": 17544.26,
       "gastoMaior": 48147.96,
       "gastoTotal": 847522.8600000001,
-      "proposicoes": "4"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204366",
@@ -49767,7 +49767,7 @@
       "gastoMenor": 2945,
       "gastoMaior": 31304.89,
       "gastoTotal": 364495.9,
-      "proposicoes": "10"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "204432",
@@ -49925,7 +49925,7 @@
       "gastoMenor": 8687.17,
       "gastoMaior": 49611.57,
       "gastoTotal": 980972.42,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204452",
@@ -50083,7 +50083,7 @@
       "gastoMenor": 15834.44,
       "gastoMaior": 46527.03,
       "gastoTotal": 845642.18,
-      "proposicoes": "0"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204512",
@@ -50241,7 +50241,7 @@
       "gastoMenor": 16542.77,
       "gastoMaior": 69695.68,
       "gastoTotal": 873305.82,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204367",
@@ -50399,7 +50399,7 @@
       "gastoMenor": 8729.84,
       "gastoMaior": 57576,
       "gastoTotal": 803123.0299999999,
-      "proposicoes": "6"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204426",
@@ -50557,7 +50557,7 @@
       "gastoMenor": 10114.66,
       "gastoMaior": 101510.16,
       "gastoTotal": 926315.15,
-      "proposicoes": "90"
+      "proposicoes": 93
   },
   {
       "ideCadastro": "204368",
@@ -50688,7 +50688,7 @@
           {
               "ano": 2020,
               "mes": 12,
-              "valor": 119684.74
+              "valor": 119988.97
           },
           {
               "ano": 2021,
@@ -50711,11 +50711,11 @@
               "valor": 18943.86
           }
       ],
-      "gastoMedio": 27760.518148148152,
+      "gastoMedio": 27771.785925925928,
       "gastoMenor": 4833.23,
-      "gastoMaior": 119684.74,
-      "gastoTotal": 749533.9900000001,
-      "proposicoes": "1"
+      "gastoMaior": 119988.97,
+      "gastoTotal": 749838.2200000001,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204513",
@@ -50866,14 +50866,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11141.02
+              "valor": 11888.95
           }
       ],
-      "gastoMedio": 10972.720740740744,
+      "gastoMedio": 11000.421851851854,
       "gastoMenor": 3525.25,
       "gastoMaior": 20551.33,
-      "gastoTotal": 296263.4600000001,
-      "proposicoes": "5"
+      "gastoTotal": 297011.3900000001,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204427",
@@ -51031,7 +51031,7 @@
       "gastoMenor": 20292.19,
       "gastoMaior": 66544.09,
       "gastoTotal": 1018179.4199999999,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204514",
@@ -51177,7 +51177,7 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 18198.02
+              "valor": 18449.65
           },
           {
               "ano": 2021,
@@ -51185,11 +51185,11 @@
               "valor": 20128.2
           }
       ],
-      "gastoMedio": 15516.314074074076,
+      "gastoMedio": 15525.633703703705,
       "gastoMenor": 5309.81,
       "gastoMaior": 45167.92,
-      "gastoTotal": 418940.48000000004,
-      "proposicoes": "5"
+      "gastoTotal": 419192.11000000004,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204428",
@@ -51340,14 +51340,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 13503.59
+              "valor": 13796.48
           }
       ],
-      "gastoMedio": 34669.88629629629,
+      "gastoMedio": 34680.73407407406,
       "gastoMenor": 1370.55,
       "gastoMaior": 242588.81,
-      "gastoTotal": 936086.9299999997,
-      "proposicoes": "19"
+      "gastoTotal": 936379.8199999997,
+      "proposicoes": 18
   },
   {
       "ideCadastro": "204453",
@@ -51505,7 +51505,7 @@
       "gastoMenor": 18037.14,
       "gastoMaior": 42108.24,
       "gastoTotal": 791958.6500000003,
-      "proposicoes": "26"
+      "proposicoes": 25
   },
   {
       "ideCadastro": "204454",
@@ -51663,7 +51663,7 @@
       "gastoMenor": 11657.76,
       "gastoMaior": 47271.67,
       "gastoTotal": 918243.0499999999,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204410",
@@ -51821,7 +51821,7 @@
       "gastoMenor": 15966.04,
       "gastoMaior": 65274.61,
       "gastoTotal": 931034.3700000001,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204411",
@@ -51979,7 +51979,7 @@
       "gastoMenor": 14310.54,
       "gastoMaior": 114633.51,
       "gastoTotal": 860819.3200000002,
-      "proposicoes": "10"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204369",
@@ -52137,7 +52137,7 @@
       "gastoMenor": 450.07,
       "gastoMaior": 20508.26,
       "gastoTotal": 222811.78000000003,
-      "proposicoes": "3"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204515",
@@ -52295,7 +52295,7 @@
       "gastoMenor": 1876.75,
       "gastoMaior": 63352.01,
       "gastoTotal": 641502.57,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204516",
@@ -52453,7 +52453,7 @@
       "gastoMenor": 628.48,
       "gastoMaior": 27221.56,
       "gastoTotal": 344858.73,
-      "proposicoes": "16"
+      "proposicoes": 16
   },
   {
       "ideCadastro": "179587",
@@ -52611,7 +52611,7 @@
       "gastoMenor": 2435.8,
       "gastoMaior": 39753.91,
       "gastoTotal": 642183.26,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204517",
@@ -52769,7 +52769,7 @@
       "gastoMenor": 4489.2,
       "gastoMaior": 42509.86,
       "gastoTotal": 754464.1099999999,
-      "proposicoes": "6"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204518",
@@ -52927,7 +52927,7 @@
       "gastoMenor": 16600.06,
       "gastoMaior": 44664.74,
       "gastoTotal": 660734.01,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204519",
@@ -53085,7 +53085,7 @@
       "gastoMenor": 509.42,
       "gastoMaior": 5853.59,
       "gastoTotal": 43555.62,
-      "proposicoes": "15"
+      "proposicoes": 20
   },
   {
       "ideCadastro": "204520",
@@ -53243,7 +53243,7 @@
       "gastoMenor": 5640.72,
       "gastoMaior": 18029.21,
       "gastoTotal": 285795.76,
-      "proposicoes": "4"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204455",
@@ -53394,14 +53394,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 13676.15
+              "valor": 20267.44
           }
       ],
-      "gastoMedio": 29789.447777777776,
-      "gastoMenor": 13676.15,
+      "gastoMedio": 30033.569629629626,
+      "gastoMenor": 17141.92,
       "gastoMaior": 51886.29,
-      "gastoTotal": 804315.09,
-      "proposicoes": "11"
+      "gastoTotal": 810906.3799999999,
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204456",
@@ -53559,7 +53559,7 @@
       "gastoMenor": 13804.72,
       "gastoMaior": 54591.34,
       "gastoTotal": 858124.8000000002,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204457",
@@ -53710,14 +53710,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 22064.03
+              "valor": 22355.99
           }
       ],
-      "gastoMedio": 33914.79074074075,
+      "gastoMedio": 33925.60407407408,
       "gastoMenor": 21968.32,
       "gastoMaior": 92981.27,
-      "gastoTotal": 915699.3500000001,
-      "proposicoes": "14"
+      "gastoTotal": 915991.31,
+      "proposicoes": 15
   },
   {
       "ideCadastro": "204458",
@@ -53875,7 +53875,7 @@
       "gastoMenor": -3095.67,
       "gastoMaior": 68822.85,
       "gastoTotal": 623514.4800000001,
-      "proposicoes": "2"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204459",
@@ -54033,7 +54033,7 @@
       "gastoMenor": 18034.85,
       "gastoMaior": 47384.76,
       "gastoTotal": 826095.44,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204521",
@@ -54191,7 +54191,7 @@
       "gastoMenor": 917.42,
       "gastoMaior": 61922.36,
       "gastoTotal": 458028.9199999999,
-      "proposicoes": "5"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204522",
@@ -54342,14 +54342,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 3816.26
+              "valor": 8743.98
           }
       ],
-      "gastoMedio": 16447.522962962965,
+      "gastoMedio": 16630.03111111111,
       "gastoMenor": 1733.44,
       "gastoMaior": 33413.36,
-      "gastoTotal": 444083.12000000005,
-      "proposicoes": "5"
+      "gastoTotal": 449010.84,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204523",
@@ -54507,7 +54507,7 @@
       "gastoMenor": 6590,
       "gastoMaior": 22540.27,
       "gastoTotal": 374309.56,
-      "proposicoes": "20"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "204460",
@@ -54653,7 +54653,7 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 9269.43
+              "valor": 9404.43
           },
           {
               "ano": 2021,
@@ -54661,11 +54661,11 @@
               "valor": 6693.3
           }
       ],
-      "gastoMedio": 18452.699259259258,
+      "gastoMedio": 18457.699259259258,
       "gastoMenor": 5352.86,
       "gastoMaior": 34834.6,
-      "gastoTotal": 498222.87999999995,
-      "proposicoes": "17"
+      "gastoTotal": 498357.87999999995,
+      "proposicoes": 18
   },
   {
       "ideCadastro": "204461",
@@ -54823,7 +54823,7 @@
       "gastoMenor": 1024.3,
       "gastoMaior": 16837.59,
       "gastoTotal": 176490.36,
-      "proposicoes": "10"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "204462",
@@ -54981,7 +54981,7 @@
       "gastoMenor": 0,
       "gastoMaior": 29644.91,
       "gastoTotal": 347967.21,
-      "proposicoes": "23"
+      "proposicoes": 19
   },
   {
       "ideCadastro": "204524",
@@ -55139,7 +55139,7 @@
       "gastoMenor": 10237.53,
       "gastoMaior": 34373.66,
       "gastoTotal": 580518.08,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204525",
@@ -55297,7 +55297,7 @@
       "gastoMenor": 11924.33,
       "gastoMaior": 64261.2,
       "gastoTotal": 636065.0599999999,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204464",
@@ -55448,14 +55448,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 13366.61
+              "valor": 13603.04
           }
       ],
-      "gastoMedio": 25427.75407407408,
-      "gastoMenor": 13366.61,
+      "gastoMedio": 25436.510740740752,
+      "gastoMenor": 13592.68,
       "gastoMaior": 48926.62,
-      "gastoTotal": 686549.3600000002,
-      "proposicoes": "63"
+      "gastoTotal": 686785.7900000003,
+      "proposicoes": 62
   },
   {
       "ideCadastro": "204412",
@@ -55613,7 +55613,7 @@
       "gastoMenor": 16731.09,
       "gastoMaior": 30593.25,
       "gastoTotal": 645384.5199999999,
-      "proposicoes": "17"
+      "proposicoes": 17
   },
   {
       "ideCadastro": "204526",
@@ -55771,7 +55771,7 @@
       "gastoMenor": 59.9,
       "gastoMaior": 26608.85,
       "gastoTotal": 208078.49999999997,
-      "proposicoes": "5"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204465",
@@ -55912,7 +55912,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 29050.32
+              "valor": 31136.25
           },
           {
               "ano": 2021,
@@ -55925,11 +55925,11 @@
               "valor": 26294.94
           }
       ],
-      "gastoMedio": 38702.520740740736,
+      "gastoMedio": 38779.777407407404,
       "gastoMenor": 20318.34,
       "gastoMaior": 72794.5,
-      "gastoTotal": 1044968.0599999998,
-      "proposicoes": "2"
+      "gastoTotal": 1047053.9899999999,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204527",
@@ -56087,7 +56087,7 @@
       "gastoMenor": 20979.42,
       "gastoMaior": 43985.37,
       "gastoTotal": 844454.69,
-      "proposicoes": "38"
+      "proposicoes": 33
   },
   {
       "ideCadastro": "204370",
@@ -56245,7 +56245,7 @@
       "gastoMenor": 11754.14,
       "gastoMaior": 77102.01,
       "gastoTotal": 800898.6399999999,
-      "proposicoes": "17"
+      "proposicoes": 17
   },
   {
       "ideCadastro": "204528",
@@ -56403,7 +56403,7 @@
       "gastoMenor": 0,
       "gastoMaior": 9545.57,
       "gastoTotal": 134774.25,
-      "proposicoes": "31"
+      "proposicoes": 31
   },
   {
       "ideCadastro": "204371",
@@ -56561,7 +56561,7 @@
       "gastoMenor": 5731.97,
       "gastoMaior": 53860.47,
       "gastoTotal": 573384.39,
-      "proposicoes": "20"
+      "proposicoes": 20
   },
   {
       "ideCadastro": "204413",
@@ -56712,14 +56712,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20017.01
+              "valor": 28571.25
           }
       ],
-      "gastoMedio": 29217.497777777775,
+      "gastoMedio": 29534.32148148148,
       "gastoMenor": 7524.86,
       "gastoMaior": 59920.04,
-      "gastoTotal": 788872.44,
-      "proposicoes": "0"
+      "gastoTotal": 797426.6799999999,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204466",
@@ -56877,7 +56877,7 @@
       "gastoMenor": 969.34,
       "gastoMaior": 131577.83,
       "gastoTotal": 1027462.12,
-      "proposicoes": "23"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "204372",
@@ -57035,7 +57035,7 @@
       "gastoMenor": 7948.82,
       "gastoMaior": 63770.31,
       "gastoTotal": 660444.6999999998,
-      "proposicoes": "14"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "204529",
@@ -57193,7 +57193,7 @@
       "gastoMenor": 10409.92,
       "gastoMaior": 70806.97,
       "gastoTotal": 746519.44,
-      "proposicoes": "14"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "204414",
@@ -57351,7 +57351,7 @@
       "gastoMenor": 10517.46,
       "gastoMaior": 54053.29,
       "gastoTotal": 952928.4099999998,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204373",
@@ -57509,7 +57509,7 @@
       "gastoMenor": 8895.57,
       "gastoMaior": 44696.23,
       "gastoTotal": 601422.63,
-      "proposicoes": "1"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204530",
@@ -57667,7 +57667,7 @@
       "gastoMenor": 427.5,
       "gastoMaior": 27971.05,
       "gastoTotal": 256228.45,
-      "proposicoes": "29"
+      "proposicoes": 29
   },
   {
       "ideCadastro": "204467",
@@ -57825,7 +57825,7 @@
       "gastoMenor": 8104.33,
       "gastoMaior": 59676.45,
       "gastoTotal": 762575.3999999997,
-      "proposicoes": "40"
+      "proposicoes": 39
   },
   {
       "ideCadastro": "204531",
@@ -57983,7 +57983,7 @@
       "gastoMenor": 11754.55,
       "gastoMaior": 51373.14,
       "gastoTotal": 702445.0499999999,
-      "proposicoes": "5"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "204468",
@@ -58134,14 +58134,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11991.01
+              "valor": 14281.42
           }
       ],
-      "gastoMedio": 26979.041481481476,
+      "gastoMedio": 27063.871481481478,
       "gastoMenor": 9296.85,
       "gastoMaior": 49196.78,
-      "gastoTotal": 728434.1199999999,
-      "proposicoes": "14"
+      "gastoTotal": 730724.5299999999,
+      "proposicoes": 14
   },
   {
       "ideCadastro": "135054",
@@ -58292,14 +58292,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 17263.92
+              "valor": 19651.35
           }
       ],
-      "gastoMedio": 36852.411851851844,
+      "gastoMedio": 36940.83518518518,
       "gastoMenor": 16507.82,
       "gastoMaior": 186321.4,
-      "gastoTotal": 995015.1199999999,
-      "proposicoes": "2"
+      "gastoTotal": 997402.5499999998,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204532",
@@ -58457,7 +58457,7 @@
       "gastoMenor": 2745.55,
       "gastoMaior": 14115.85,
       "gastoTotal": 192561.4,
-      "proposicoes": "11"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204415",
@@ -58608,14 +58608,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 39382.39
+              "valor": 39532.39
           }
       ],
-      "gastoMedio": 39006.78,
+      "gastoMedio": 39012.33555555556,
       "gastoMenor": 17534.15,
       "gastoMaior": 67471.3,
-      "gastoTotal": 1053183.06,
-      "proposicoes": "9"
+      "gastoTotal": 1053333.06,
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204533",
@@ -58766,14 +58766,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 9063.84
+              "valor": 9843.06
           }
       ],
-      "gastoMedio": 30992.22851851852,
-      "gastoMenor": 9063.84,
+      "gastoMedio": 31021.08851851852,
+      "gastoMenor": 9843.06,
       "gastoMaior": 76723.35,
-      "gastoTotal": 836790.17,
-      "proposicoes": "21"
+      "gastoTotal": 837569.3900000001,
+      "proposicoes": 18
   },
   {
       "ideCadastro": "204374",
@@ -58924,14 +58924,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 30490.75
+              "valor": 35490.75
           }
       ],
-      "gastoMedio": 23845.772962962958,
+      "gastoMedio": 24030.958148148144,
       "gastoMenor": 5307.32,
-      "gastoMaior": 35249.25,
-      "gastoTotal": 643835.8699999999,
-      "proposicoes": "9"
+      "gastoMaior": 35490.75,
+      "gastoTotal": 648835.8699999999,
+      "proposicoes": 10
   },
   {
       "ideCadastro": "204534",
@@ -59082,14 +59082,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 21025.07
+              "valor": 21215.09
           }
       ],
-      "gastoMedio": 26822.057407407407,
+      "gastoMedio": 26829.095185185182,
       "gastoMenor": 13801.41,
       "gastoMaior": 37509.33,
-      "gastoTotal": 724195.5499999999,
-      "proposicoes": "36"
+      "gastoTotal": 724385.57,
+      "proposicoes": 35
   },
   {
       "ideCadastro": "204535",
@@ -59247,7 +59247,7 @@
       "gastoMenor": 19350,
       "gastoMaior": 47020.36,
       "gastoTotal": 810147.4400000001,
-      "proposicoes": "47"
+      "proposicoes": 49
   },
   {
       "ideCadastro": "204536",
@@ -59405,7 +59405,7 @@
       "gastoMenor": 15.55,
       "gastoMaior": 51257.9,
       "gastoTotal": 343787.69000000006,
-      "proposicoes": "85"
+      "proposicoes": 89
   },
   {
       "ideCadastro": "109429",
@@ -59546,7 +59546,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 24895.95
+              "valor": 27226.52
           },
           {
               "ano": 2021,
@@ -59559,11 +59559,11 @@
               "valor": 21886.96
           }
       ],
-      "gastoMedio": 23824.579629629632,
+      "gastoMedio": 23910.89703703704,
       "gastoMenor": 15096.87,
       "gastoMaior": 33993.24,
-      "gastoTotal": 643263.65,
-      "proposicoes": "7"
+      "gastoTotal": 645594.2200000001,
+      "proposicoes": 8
   },
   {
       "ideCadastro": "204471",
@@ -59721,7 +59721,7 @@
       "gastoMenor": 15662.06,
       "gastoMaior": 75563.98,
       "gastoTotal": 1059894.4300000002,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "68720",
@@ -59807,7 +59807,7 @@
           {
               "ano": 2020,
               "mes": 3,
-              "valor": 37343.38
+              "valor": 37289.48
           },
           {
               "ano": 2020,
@@ -59872,14 +59872,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 21830.18
+              "valor": 22880.46
           }
       ],
-      "gastoMedio": 38415.559259259266,
+      "gastoMedio": 38452.462222222224,
       "gastoMenor": 20834.59,
       "gastoMaior": 56135.44,
-      "gastoTotal": 1037220.1000000002,
-      "proposicoes": "3"
+      "gastoTotal": 1038216.48,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204472",
@@ -60037,7 +60037,7 @@
       "gastoMenor": 1654.83,
       "gastoMaior": 75938.3,
       "gastoTotal": 729502.4800000001,
-      "proposicoes": "11"
+      "proposicoes": 12
   },
   {
       "ideCadastro": "204375",
@@ -60195,7 +60195,7 @@
       "gastoMenor": 15378.23,
       "gastoMaior": 77220.02,
       "gastoTotal": 924981.6300000001,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204537",
@@ -60353,7 +60353,7 @@
       "gastoMenor": 8106.36,
       "gastoMaior": 54204.02,
       "gastoTotal": 719795.1600000001,
-      "proposicoes": "27"
+      "proposicoes": 24
   },
   {
       "ideCadastro": "204473",
@@ -60489,7 +60489,7 @@
           {
               "ano": 2021,
               "mes": 1,
-              "valor": 21958.47
+              "valor": 21990.04
           },
           {
               "ano": 2021,
@@ -60507,11 +60507,11 @@
               "valor": 20649.68
           }
       ],
-      "gastoMedio": 28358.862592592588,
+      "gastoMedio": 28360.03185185185,
       "gastoMenor": 11598.63,
       "gastoMaior": 58468.29,
-      "gastoTotal": 765689.2899999999,
-      "proposicoes": "1"
+      "gastoTotal": 765720.86,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204538",
@@ -60652,12 +60652,12 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 53646.5
+              "valor": 54744.97
           },
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 38232.12
+              "valor": 48222.12
           },
           {
               "ano": 2021,
@@ -60665,11 +60665,11 @@
               "valor": 16770.76
           }
       ],
-      "gastoMedio": 38304.89481481481,
+      "gastoMedio": 38715.578888888886,
       "gastoMenor": 12243.97,
       "gastoMaior": 83045.62,
-      "gastoTotal": 1034232.1599999999,
-      "proposicoes": "12"
+      "gastoTotal": 1045320.6299999999,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204539",
@@ -60827,7 +60827,7 @@
       "gastoMenor": 0,
       "gastoMaior": 0,
       "gastoTotal": 0,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204474",
@@ -60985,7 +60985,7 @@
       "gastoMenor": 13809.33,
       "gastoMaior": 42019.83,
       "gastoTotal": 756082.19,
-      "proposicoes": "9"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204376",
@@ -61136,14 +61136,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 5690.19
+              "valor": 5890.19
           }
       ],
-      "gastoMedio": 13100.144074074075,
+      "gastoMedio": 13107.551481481481,
       "gastoMenor": 4939.3,
       "gastoMaior": 27978.81,
-      "gastoTotal": 353703.89,
-      "proposicoes": "3"
+      "gastoTotal": 353903.89,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204416",
@@ -61294,14 +61294,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 20165.58
+              "valor": 22949.93
           }
       ],
-      "gastoMedio": 21176.85074074074,
+      "gastoMedio": 21279.974814814817,
       "gastoMenor": 9012.95,
       "gastoMaior": 39658.01,
-      "gastoTotal": 571774.97,
-      "proposicoes": "6"
+      "gastoTotal": 574559.3200000001,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "121948",
@@ -61452,14 +61452,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 22073.45
+              "valor": 22375.24
           }
       ],
-      "gastoMedio": 29830.201111111117,
+      "gastoMedio": 29841.378518518526,
       "gastoMenor": 10880.3,
       "gastoMaior": 66351.49,
-      "gastoTotal": 805415.4300000002,
-      "proposicoes": "1"
+      "gastoTotal": 805717.2200000002,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204418",
@@ -61617,7 +61617,7 @@
       "gastoMenor": 1965.17,
       "gastoMaior": 59275.03,
       "gastoTotal": 569922.2200000001,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204377",
@@ -61775,7 +61775,7 @@
       "gastoMenor": 0,
       "gastoMaior": 0,
       "gastoTotal": 0,
-      "proposicoes": "16"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "204419",
@@ -61926,14 +61926,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6000
+              "valor": 6177.25
           }
       ],
-      "gastoMedio": 30222.711111111115,
-      "gastoMenor": 6000,
+      "gastoMedio": 30229.27592592593,
+      "gastoMenor": 6177.25,
       "gastoMaior": 37968.63,
-      "gastoTotal": 816013.2000000001,
-      "proposicoes": "4"
+      "gastoTotal": 816190.4500000001,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204540",
@@ -61941,10 +61941,10 @@
       "nome": "MARIA DO PARTO MENDES ROSAS",
       "dias": 144,
       "sessoes": 214,
-      "faltasSessoes": 3,
-      "faltasDias": 3,
-      "presencaDias": 0.9791666666666666,
-      "presencaSessoes": 0.985981308411215,
+      "faltasSessoes": 0,
+      "faltasDias": 0,
+      "presencaDias": 1,
+      "presencaSessoes": 1,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204540.jpg",
       "siglaUf": "SP",
       "siglaPartido": "REPUBLICANOS",
@@ -62084,14 +62084,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11234.5
+              "valor": 11988.8
           }
       ],
-      "gastoMedio": 29375.096666666665,
-      "gastoMenor": 11234.5,
+      "gastoMedio": 29403.033703703706,
+      "gastoMenor": 11988.8,
       "gastoMaior": 48610.54,
-      "gastoTotal": 793127.61,
-      "proposicoes": "0"
+      "gastoTotal": 793881.91,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204541",
@@ -62249,7 +62249,7 @@
       "gastoMenor": 13935.24,
       "gastoMaior": 102489.64,
       "gastoTotal": 999072.43,
-      "proposicoes": "15"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "204420",
@@ -62407,7 +62407,7 @@
       "gastoMenor": 9606.97,
       "gastoMaior": 113504.85,
       "gastoTotal": 929618.3199999998,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204475",
@@ -62565,7 +62565,7 @@
       "gastoMenor": 0,
       "gastoMaior": 83498.59,
       "gastoTotal": 862924.93,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204378",
@@ -62723,7 +62723,7 @@
       "gastoMenor": 13826.33,
       "gastoMaior": 65675.81,
       "gastoTotal": 1081190.45,
-      "proposicoes": "9"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "204379",
@@ -62881,7 +62881,7 @@
       "gastoMenor": 7500,
       "gastoMaior": 68349.73,
       "gastoTotal": 1002963.61,
-      "proposicoes": "3"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204476",
@@ -63039,7 +63039,7 @@
       "gastoMenor": 3376.89,
       "gastoMaior": 81286.65,
       "gastoTotal": 864043.5499999998,
-      "proposicoes": "1"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204544",
@@ -63197,7 +63197,7 @@
       "gastoMenor": 10458.82,
       "gastoMaior": 134036.93,
       "gastoTotal": 1009110.8699999999,
-      "proposicoes": "12"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "204545",
@@ -63355,7 +63355,7 @@
       "gastoMenor": 16355.06,
       "gastoMaior": 64189.38,
       "gastoTotal": 805381.0900000001,
-      "proposicoes": "5"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "204380",
@@ -63513,7 +63513,7 @@
       "gastoMenor": 0,
       "gastoMaior": 48772.42,
       "gastoTotal": 439235.87,
-      "proposicoes": "8"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204421",
@@ -63671,7 +63671,7 @@
       "gastoMenor": 13771.72,
       "gastoMaior": 179952.57,
       "gastoTotal": 1065717.1600000001,
-      "proposicoes": "10"
+      "proposicoes": 9
   },
   {
       "ideCadastro": "81297",
@@ -63829,7 +63829,7 @@
       "gastoMenor": 21277.51,
       "gastoMaior": 98879.15,
       "gastoTotal": 967206.6900000001,
-      "proposicoes": "29"
+      "proposicoes": 28
   },
   {
       "ideCadastro": "115746",
@@ -63987,7 +63987,7 @@
       "gastoMenor": 4940.37,
       "gastoMaior": 123177.67,
       "gastoTotal": 889738.47,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204546",
@@ -64128,7 +64128,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 27354.05
+              "valor": 29694.62
           },
           {
               "ano": 2021,
@@ -64141,11 +64141,11 @@
               "valor": 9407.4
           }
       ],
-      "gastoMedio": 17671.39888888889,
+      "gastoMedio": 17758.086666666666,
       "gastoMenor": 5517.16,
       "gastoMaior": 31296.25,
-      "gastoTotal": 477127.76999999996,
-      "proposicoes": "16"
+      "gastoTotal": 479468.33999999997,
+      "proposicoes": 12
   },
   {
       "ideCadastro": "204547",
@@ -64296,14 +64296,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 12757.17
+              "valor": 18654.17
           }
       ],
-      "gastoMedio": 31976.536296296286,
+      "gastoMedio": 32194.943703703695,
       "gastoMenor": 8969.11,
       "gastoMaior": 159332.26,
-      "gastoTotal": 863366.4799999997,
-      "proposicoes": "1"
+      "gastoTotal": 869263.4799999997,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "90201",
@@ -64454,14 +64454,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 13753.9
+              "valor": 13826.9
           }
       ],
-      "gastoMedio": 34618.59814814814,
-      "gastoMenor": 13753.9,
+      "gastoMedio": 34621.301851851844,
+      "gastoMenor": 13826.9,
       "gastoMaior": 87625.02,
-      "gastoTotal": 934702.1499999998,
-      "proposicoes": "2"
+      "gastoTotal": 934775.1499999998,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204381",
@@ -64607,7 +64607,7 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 3782.27
+              "valor": 14782.27
           },
           {
               "ano": 2021,
@@ -64615,11 +64615,11 @@
               "valor": 11542.16
           }
       ],
-      "gastoMedio": 13308.388518518519,
+      "gastoMedio": 13715.795925925926,
       "gastoMenor": 2073.31,
       "gastoMaior": 28514.09,
-      "gastoTotal": 359326.49,
-      "proposicoes": "48"
+      "gastoTotal": 370326.49,
+      "proposicoes": 47
   },
   {
       "ideCadastro": "204477",
@@ -64770,14 +64770,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 28931
+              "valor": 32294.58
           }
       ],
-      "gastoMedio": 20760.510000000002,
+      "gastoMedio": 20885.087037037036,
       "gastoMenor": 2491.99,
       "gastoMaior": 34218.96,
-      "gastoTotal": 560533.77,
-      "proposicoes": "7"
+      "gastoTotal": 563897.35,
+      "proposicoes": 8
   },
   {
       "ideCadastro": "204478",
@@ -64928,14 +64928,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 32250.83
+              "valor": 33150.77
           }
       ],
-      "gastoMedio": 34421.47,
+      "gastoMedio": 34454.80111111111,
       "gastoMenor": 13061.15,
       "gastoMaior": 142789.83,
-      "gastoTotal": 929379.69,
-      "proposicoes": "2"
+      "gastoTotal": 930279.63,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204548",
@@ -65093,7 +65093,7 @@
       "gastoMenor": 11000,
       "gastoMaior": 89074.94,
       "gastoTotal": 971027.6100000002,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204382",
@@ -65251,7 +65251,7 @@
       "gastoMenor": 14088.03,
       "gastoMaior": 61175.1,
       "gastoTotal": 973583.7499999999,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204383",
@@ -65409,7 +65409,7 @@
       "gastoMenor": 1902.98,
       "gastoMaior": 26151.36,
       "gastoTotal": 394881.80999999994,
-      "proposicoes": "30"
+      "proposicoes": 31
   },
   {
       "ideCadastro": "204549",
@@ -65560,14 +65560,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11963.19
+              "valor": 17963.19
           }
       ],
-      "gastoMedio": 38511.608888888884,
-      "gastoMenor": 11963.19,
+      "gastoMedio": 38733.83111111111,
+      "gastoMenor": 17963.19,
       "gastoMaior": 87271.94,
-      "gastoTotal": 1039813.44,
-      "proposicoes": "0"
+      "gastoTotal": 1045813.44,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204550",
@@ -65718,14 +65718,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 27900
+              "valor": 30400
           }
       ],
-      "gastoMedio": 37857.602592592586,
+      "gastoMedio": 37950.195185185185,
       "gastoMenor": 11347.85,
       "gastoMaior": 79450.26,
-      "gastoTotal": 1022155.2699999999,
-      "proposicoes": "2"
+      "gastoTotal": 1024655.2699999999,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204479",
@@ -65876,14 +65876,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 24638
+              "valor": 24938
           }
       ],
-      "gastoMedio": 29242.12481481482,
+      "gastoMedio": 29253.23592592593,
       "gastoMenor": 535.68,
       "gastoMaior": 59056.88,
-      "gastoTotal": 789537.3700000001,
-      "proposicoes": "3"
+      "gastoTotal": 789837.3700000001,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "73808",
@@ -66024,7 +66024,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 15828.5
+              "valor": 15963.29
           },
           {
               "ano": 2021,
@@ -66037,11 +66037,11 @@
               "valor": 15424.1
           }
       ],
-      "gastoMedio": 26102.324285714283,
+      "gastoMedio": 26108.74285714285,
       "gastoMenor": 0,
       "gastoMaior": 48898.03,
-      "gastoTotal": 548148.8099999999,
-      "proposicoes": "2"
+      "gastoTotal": 548283.5999999999,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "74090",
@@ -66192,14 +66192,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 4671.34
+              "valor": 11342.69
           }
       ],
-      "gastoMedio": 27034.884074074078,
+      "gastoMedio": 27281.971111111114,
       "gastoMenor": 2107.27,
       "gastoMaior": 84894.96,
-      "gastoTotal": 729941.8700000001,
-      "proposicoes": "1"
+      "gastoTotal": 736613.2200000001,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "139285",
@@ -66340,7 +66340,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 39156.53
+              "valor": 39851.57
           },
           {
               "ano": 2021,
@@ -66353,11 +66353,11 @@
               "valor": 46499.46
           }
       ],
-      "gastoMedio": 30225.93185185185,
+      "gastoMedio": 30251.67407407407,
       "gastoMenor": 18957.84,
       "gastoMaior": 52318.63,
-      "gastoTotal": 816100.1599999999,
-      "proposicoes": "10"
+      "gastoTotal": 816795.2,
+      "proposicoes": 10
   },
   {
       "ideCadastro": "74537",
@@ -66365,10 +66365,10 @@
       "nome": "CLÁUDIO CAJADO SAMPAIO",
       "dias": 144,
       "sessoes": 214,
-      "faltasSessoes": 4,
-      "faltasDias": 4,
-      "presencaDias": 0.9722222222222222,
-      "presencaSessoes": 0.9813084112149533,
+      "faltasSessoes": 1,
+      "faltasDias": 1,
+      "presencaDias": 0.9930555555555556,
+      "presencaSessoes": 0.9953271028037384,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74537.jpg",
       "siglaUf": "BA",
       "siglaPartido": "PP",
@@ -66453,17 +66453,17 @@
           {
               "ano": 2020,
               "mes": 5,
-              "valor": 38473.5
+              "valor": 38442.83
           },
           {
               "ano": 2020,
               "mes": 6,
-              "valor": 34869.64
+              "valor": 34838.97
           },
           {
               "ano": 2020,
               "mes": 7,
-              "valor": 45011.36
+              "valor": 44980.69
           },
           {
               "ano": 2020,
@@ -66478,17 +66478,17 @@
           {
               "ano": 2020,
               "mes": 10,
-              "valor": 32269.72
+              "valor": 31183.72
           },
           {
               "ano": 2020,
               "mes": 11,
-              "valor": 37430.35
+              "valor": 37366.36
           },
           {
               "ano": 2020,
               "mes": 12,
-              "valor": 45290.12
+              "valor": 45098.15
           },
           {
               "ano": 2021,
@@ -66508,14 +66508,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 33601.21
+              "valor": 37211.75
           }
       ],
-      "gastoMedio": 34947.73259259259,
+      "gastoMedio": 35028.346296296295,
       "gastoMenor": 24714.26,
       "gastoMaior": 59179.69,
-      "gastoTotal": 943588.7799999999,
-      "proposicoes": "0"
+      "gastoTotal": 945765.35,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "74554",
@@ -66673,7 +66673,7 @@
       "gastoMenor": 4382.3,
       "gastoMaior": 72565.48,
       "gastoTotal": 951665.2399999998,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "74356",
@@ -66831,7 +66831,7 @@
       "gastoMenor": 7517.41,
       "gastoMaior": 86764.81,
       "gastoTotal": 1105028.6400000004,
-      "proposicoes": "1"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "74057",
@@ -66989,7 +66989,7 @@
       "gastoMenor": 5940.11,
       "gastoMaior": 57172.51,
       "gastoTotal": 927404.6400000001,
-      "proposicoes": "29"
+      "proposicoes": 31
   },
   {
       "ideCadastro": "74060",
@@ -67147,7 +67147,7 @@
       "gastoMenor": 7212.57,
       "gastoMaior": 53863.12,
       "gastoTotal": 1052624.6800000002,
-      "proposicoes": "11"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "141408",
@@ -67305,7 +67305,7 @@
       "gastoMenor": 0,
       "gastoMaior": 100093.15,
       "gastoTotal": 878340.25,
-      "proposicoes": "1"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "141458",
@@ -67456,14 +67456,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 8511.75
+              "valor": 9933.63
           }
       ],
-      "gastoMedio": 33028.88148148148,
-      "gastoMenor": 8511.75,
+      "gastoMedio": 33081.543703703705,
+      "gastoMenor": 8680.66,
       "gastoMaior": 117754.18,
-      "gastoTotal": 891779.8,
-      "proposicoes": "1"
+      "gastoTotal": 893201.68,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "150418",
@@ -67609,19 +67609,19 @@
           {
               "ano": 2021,
               "mes": 3,
-              "valor": 13896.83
+              "valor": 16366
           },
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 2173.96
+              "valor": 2281.38
           }
       ],
-      "gastoMedio": 28187.900740740737,
-      "gastoMenor": 2173.96,
+      "gastoMedio": 28283.33,
+      "gastoMenor": 2281.38,
       "gastoMaior": 53820.51,
-      "gastoTotal": 761073.32,
-      "proposicoes": "3"
+      "gastoTotal": 763649.91,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "160666",
@@ -67779,7 +67779,7 @@
       "gastoMenor": 6645.12,
       "gastoMaior": 90999.29,
       "gastoTotal": 947235.98,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "160508",
@@ -67937,7 +67937,7 @@
       "gastoMenor": 13568.62,
       "gastoMaior": 118170.36,
       "gastoTotal": 968380.8400000001,
-      "proposicoes": "14"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "160610",
@@ -68095,7 +68095,7 @@
       "gastoMenor": 8534.83,
       "gastoMaior": 63535.77,
       "gastoTotal": 868823.8300000003,
-      "proposicoes": "19"
+      "proposicoes": 18
   },
   {
       "ideCadastro": "160569",
@@ -68253,7 +68253,7 @@
       "gastoMenor": 14294.62,
       "gastoMaior": 162777.45,
       "gastoTotal": 950805.2,
-      "proposicoes": "19"
+      "proposicoes": 18
   },
   {
       "ideCadastro": "160553",
@@ -68394,7 +68394,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 31989.88
+              "valor": 33894.2
           },
           {
               "ano": 2021,
@@ -68407,11 +68407,11 @@
               "valor": 18720.12
           }
       ],
-      "gastoMedio": 32211.480740740735,
+      "gastoMedio": 32282.011111111104,
       "gastoMenor": 18720.12,
       "gastoMaior": 52621.93,
-      "gastoTotal": 869709.9799999999,
-      "proposicoes": "6"
+      "gastoTotal": 871614.2999999998,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "160600",
@@ -68569,7 +68569,7 @@
       "gastoMenor": 10243.02,
       "gastoMaior": 55074.74,
       "gastoTotal": 934978.8600000001,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "160619",
@@ -68727,7 +68727,7 @@
       "gastoMenor": 19444.15,
       "gastoMaior": 57953.19,
       "gastoTotal": 986631.7600000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204551",
@@ -68885,7 +68885,7 @@
       "gastoMenor": 6313.24,
       "gastoMaior": 119453.06,
       "gastoTotal": 736109.82,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "204553",
@@ -69043,7 +69043,7 @@
       "gastoMenor": 1934.11,
       "gastoMaior": 52472.83,
       "gastoTotal": 503607.84,
-      "proposicoes": "2"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "93083",
@@ -69194,14 +69194,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 11740.25
+              "valor": 24282.76
           }
       ],
-      "gastoMedio": 31544.69962962962,
-      "gastoMenor": 11740.25,
+      "gastoMedio": 32009.23703703703,
+      "gastoMenor": 20264.42,
       "gastoMaior": 47245.93,
-      "gastoTotal": 851706.8899999998,
-      "proposicoes": "7"
+      "gastoTotal": 864249.3999999998,
+      "proposicoes": 7
   },
   {
       "ideCadastro": "178854",
@@ -69359,7 +69359,7 @@
       "gastoMenor": 13943.42,
       "gastoMaior": 114625.68,
       "gastoTotal": 957719.56,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "69871",
@@ -69517,7 +69517,7 @@
       "gastoMenor": 6308.28,
       "gastoMaior": 88335.37,
       "gastoTotal": 923391.4099999999,
-      "proposicoes": "22"
+      "proposicoes": 21
   },
   {
       "ideCadastro": "178857",
@@ -69525,10 +69525,10 @@
       "nome": "JORGE JOSE SANTOS PEREIRA SOLLA",
       "dias": 144,
       "sessoes": 214,
-      "faltasSessoes": 5,
-      "faltasDias": 4,
-      "presencaDias": 0.9722222222222222,
-      "presencaSessoes": 0.9766355140186916,
+      "faltasSessoes": 1,
+      "faltasDias": 1,
+      "presencaDias": 0.9930555555555556,
+      "presencaSessoes": 0.9953271028037384,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
       "siglaUf": "BA",
       "siglaPartido": "PT",
@@ -69675,7 +69675,7 @@
       "gastoMenor": 11613.08,
       "gastoMaior": 39027.96,
       "gastoTotal": 707088.8400000001,
-      "proposicoes": "41"
+      "proposicoes": 42
   },
   {
       "ideCadastro": "178858",
@@ -69833,7 +69833,7 @@
       "gastoMenor": 12201.47,
       "gastoMaior": 114830.81,
       "gastoTotal": 909605.2799999998,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178860",
@@ -69991,7 +69991,7 @@
       "gastoMenor": 7196.67,
       "gastoMaior": 79627.94,
       "gastoTotal": 821490.38,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178861",
@@ -70149,7 +70149,7 @@
       "gastoMenor": 19618.62,
       "gastoMaior": 69777.19,
       "gastoTotal": 1015885.2899999997,
-      "proposicoes": "5"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "178863",
@@ -70307,7 +70307,7 @@
       "gastoMenor": 0,
       "gastoMaior": 58522.18,
       "gastoTotal": 963811.1000000001,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178881",
@@ -70465,7 +70465,7 @@
       "gastoMenor": 8916.79,
       "gastoMaior": 91789.59,
       "gastoTotal": 863530.86,
-      "proposicoes": "7"
+      "proposicoes": 7
   },
   {
       "ideCadastro": "178882",
@@ -70623,7 +70623,7 @@
       "gastoMenor": 3228.05,
       "gastoMaior": 45624.73,
       "gastoTotal": 621917.66,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178884",
@@ -70774,14 +70774,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 26300.92
+              "valor": 27000.92
           }
       ],
-      "gastoMedio": 39249.014814814815,
+      "gastoMedio": 39274.940740740734,
       "gastoMenor": 12758.88,
       "gastoMaior": 57591.31,
-      "gastoTotal": 1059723.4,
-      "proposicoes": "10"
+      "gastoTotal": 1060423.4,
+      "proposicoes": 9
   },
   {
       "ideCadastro": "112437",
@@ -70939,7 +70939,7 @@
       "gastoMenor": 22140.69,
       "gastoMaior": 77214.9,
       "gastoTotal": 1075522.18,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "178886",
@@ -71090,14 +71090,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 28978.12
+              "valor": 30526.08
           }
       ],
-      "gastoMedio": 41335.864444444436,
+      "gastoMedio": 41393.196296296286,
       "gastoMenor": 18982.79,
       "gastoMaior": 62750.51,
-      "gastoTotal": 1116068.3399999999,
-      "proposicoes": "1"
+      "gastoTotal": 1117616.2999999998,
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178889",
@@ -71248,14 +71248,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 18012.97
+              "valor": 19512.97
           }
       ],
-      "gastoMedio": 32252.598518518524,
-      "gastoMenor": 18012.97,
+      "gastoMedio": 32308.15407407408,
+      "gastoMenor": 19512.97,
       "gastoMaior": 59112.73,
-      "gastoTotal": 870820.1600000001,
-      "proposicoes": "74"
+      "gastoTotal": 872320.1600000001,
+      "proposicoes": 73
   },
   {
       "ideCadastro": "204554",
@@ -71413,7 +71413,7 @@
       "gastoMenor": 19402.53,
       "gastoMaior": 55097.85,
       "gastoTotal": 966818.1299999998,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204555",
@@ -71571,7 +71571,7 @@
       "gastoMenor": 8251.91,
       "gastoMaior": 78456.98,
       "gastoTotal": 1006446.09,
-      "proposicoes": "80"
+      "proposicoes": 80
   },
   {
       "ideCadastro": "204556",
@@ -71722,14 +71722,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 37825.92
+              "valor": 38055.9
           }
       ],
-      "gastoMedio": 43647.54703703703,
+      "gastoMedio": 43656.0648148148,
       "gastoMenor": 27699.43,
       "gastoMaior": 55226.78,
-      "gastoTotal": 1178483.7699999998,
-      "proposicoes": "175"
+      "gastoTotal": 1178713.7499999998,
+      "proposicoes": 175
   },
   {
       "ideCadastro": "204557",
@@ -71880,14 +71880,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6187.83
+              "valor": 7811.79
           }
       ],
-      "gastoMedio": 39396.88148148149,
+      "gastoMedio": 39457.02814814816,
       "gastoMenor": 4933.42,
       "gastoMaior": 160322.14,
-      "gastoTotal": 1063715.8000000003,
-      "proposicoes": "3"
+      "gastoTotal": 1065339.7600000002,
+      "proposicoes": 9
   },
   {
       "ideCadastro": "204558",
@@ -72045,7 +72045,7 @@
       "gastoMenor": 11886.3,
       "gastoMaior": 67563.47,
       "gastoTotal": 989931.3499999999,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204559",
@@ -72196,14 +72196,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 30023.76
+              "valor": 31574.08
           }
       ],
-      "gastoMedio": 36416.04037037037,
+      "gastoMedio": 36473.45962962963,
       "gastoMenor": 7536.46,
       "gastoMaior": 103749.03,
-      "gastoTotal": 983233.09,
-      "proposicoes": "14"
+      "gastoTotal": 984783.4099999999,
+      "proposicoes": 13
   },
   {
       "ideCadastro": "204560",
@@ -72361,7 +72361,7 @@
       "gastoMenor": 16552.03,
       "gastoMaior": 70213.02,
       "gastoTotal": 735951.5500000002,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "92102",
@@ -72519,7 +72519,7 @@
       "gastoMenor": 25981.77,
       "gastoMaior": 48055.36,
       "gastoTotal": 968227.83,
-      "proposicoes": "3"
+      "proposicoes": 5
   },
   {
       "ideCadastro": "204561",
@@ -72677,7 +72677,7 @@
       "gastoMenor": 5734.18,
       "gastoMaior": 58655.91,
       "gastoTotal": 586493.0499999999,
-      "proposicoes": "11"
+      "proposicoes": 14
   },
   {
       "ideCadastro": "204562",
@@ -72835,7 +72835,7 @@
       "gastoMenor": 8705.82,
       "gastoMaior": 75294.39,
       "gastoTotal": 1076860.0999999999,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204563",
@@ -72993,7 +72993,7 @@
       "gastoMenor": 0,
       "gastoMaior": 59864.17,
       "gastoTotal": 856298.5100000001,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204564",
@@ -73151,7 +73151,7 @@
       "gastoMenor": 7621.03,
       "gastoMaior": 93779.44,
       "gastoTotal": 803924.1299999995,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204565",
@@ -73302,14 +73302,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 19374.26
+              "valor": 19465.55
           }
       ],
-      "gastoMedio": 26174.324444444446,
+      "gastoMedio": 26177.705555555556,
       "gastoMenor": 10492.77,
       "gastoMaior": 46690.46,
-      "gastoTotal": 706706.76,
-      "proposicoes": "2"
+      "gastoTotal": 706798.05,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204566",
@@ -73467,7 +73467,7 @@
       "gastoMenor": 436.19,
       "gastoMaior": 59555.83,
       "gastoTotal": 1077242.3399999999,
-      "proposicoes": "0"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "204567",
@@ -73625,7 +73625,7 @@
       "gastoMenor": 5937.24,
       "gastoMaior": 137949.98,
       "gastoTotal": 944958.2700000001,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204569",
@@ -73783,7 +73783,7 @@
       "gastoMenor": 1168.22,
       "gastoMaior": 55803.11,
       "gastoTotal": 670783.9799999999,
-      "proposicoes": "11"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "204570",
@@ -73941,7 +73941,7 @@
       "gastoMenor": 0,
       "gastoMaior": 69894.53,
       "gastoTotal": 649521.7399999999,
-      "proposicoes": "4"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "204571",
@@ -74092,14 +74092,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 25722.2
+              "valor": 28821.84
           }
       ],
-      "gastoMedio": 36960.43407407407,
+      "gastoMedio": 37075.235555555555,
       "gastoMenor": 15668.79,
       "gastoMaior": 60473.37,
-      "gastoTotal": 997931.72,
-      "proposicoes": "2"
+      "gastoTotal": 1001031.36,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "204572",
@@ -74257,7 +74257,7 @@
       "gastoMenor": 721.47,
       "gastoMaior": 86220.9,
       "gastoTotal": 894246.55,
-      "proposicoes": "35"
+      "proposicoes": 40
   },
   {
       "ideCadastro": "204573",
@@ -74408,14 +74408,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 23244.15
+              "valor": 23286.66
           }
       ],
-      "gastoMedio": 29566.053703703707,
+      "gastoMedio": 29567.628148148153,
       "gastoMenor": 13306.63,
       "gastoMaior": 44598.65,
-      "gastoTotal": 798283.4500000001,
-      "proposicoes": "9"
+      "gastoTotal": 798325.9600000001,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "197438",
@@ -74573,7 +74573,7 @@
       "gastoMenor": 0,
       "gastoMaior": 140088.99,
       "gastoTotal": 860287.7900000003,
-      "proposicoes": "7"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "204574",
@@ -74731,7 +74731,7 @@
       "gastoMenor": 0,
       "gastoMaior": 140857.37,
       "gastoTotal": 823952.82,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "204575",
@@ -74889,7 +74889,7 @@
       "gastoMenor": 9345.22,
       "gastoMaior": 69945.76,
       "gastoTotal": 1054702.0499999998,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "122974",
@@ -75047,7 +75047,7 @@
       "gastoMenor": 22108.54,
       "gastoMaior": 60644.64,
       "gastoTotal": 1055486.4100000001,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178948",
@@ -75205,7 +75205,7 @@
       "gastoMenor": 15687.01,
       "gastoMaior": 71898.13,
       "gastoTotal": 1022260.5599999999,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "205476",
@@ -75363,7 +75363,7 @@
       "gastoMenor": 10229.32,
       "gastoMaior": 60807.61,
       "gastoTotal": 968136.3699999999,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "205548",
@@ -75521,7 +75521,7 @@
       "gastoMenor": 7879.93,
       "gastoMaior": 53459.3,
       "gastoTotal": 799347.9200000002,
-      "proposicoes": "24"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "205550",
@@ -75679,7 +75679,7 @@
       "gastoMenor": 9148.6,
       "gastoMaior": 31965.53,
       "gastoTotal": 586225.69,
-      "proposicoes": "7"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "205863",
@@ -75830,14 +75830,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 25196.28
+              "valor": 25497.94
           }
       ],
-      "gastoMedio": 28168.50444444445,
+      "gastoMedio": 28179.67703703704,
       "gastoMenor": 6737.44,
       "gastoMaior": 50135.41,
-      "gastoTotal": 760549.6200000001,
-      "proposicoes": "2"
+      "gastoTotal": 760851.28,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "178930",
@@ -75988,14 +75988,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 28614.99
+              "valor": 29366.62
           }
       ],
-      "gastoMedio": 36568.27074074075,
+      "gastoMedio": 36596.1088888889,
       "gastoMenor": 17710.5,
       "gastoMaior": 88140.2,
-      "gastoTotal": 987343.3100000002,
-      "proposicoes": "4"
+      "gastoTotal": 988094.9400000002,
+      "proposicoes": 5
   },
   {
       "ideCadastro": "205865",
@@ -76136,7 +76136,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 27281.84
+              "valor": 28480.22
           },
           {
               "ano": 2021,
@@ -76149,11 +76149,11 @@
               "valor": 37546.05
           }
       ],
-      "gastoMedio": 31285.172692307686,
+      "gastoMedio": 31331.264230769226,
       "gastoMenor": 0,
       "gastoMaior": 54649.12,
-      "gastoTotal": 813414.4899999999,
-      "proposicoes": "2"
+      "gastoTotal": 814612.8699999999,
+      "proposicoes": 2
   },
   {
       "ideCadastro": "206231",
@@ -76304,14 +76304,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 15937.89
+              "valor": 15946.36
           }
       ],
-      "gastoMedio": 28211.201111111117,
+      "gastoMedio": 28211.51481481482,
       "gastoMenor": 11410.23,
       "gastoMaior": 39816.13,
-      "gastoTotal": 761702.4300000002,
-      "proposicoes": "4"
+      "gastoTotal": 761710.9000000001,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "207176",
@@ -76462,14 +76462,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 14329.17
+              "valor": 14505.58
           }
       ],
-      "gastoMedio": 20427.74851851852,
+      "gastoMedio": 20434.28222222222,
       "gastoMenor": 13147.63,
       "gastoMaior": 37193.75,
-      "gastoTotal": 551549.2100000001,
-      "proposicoes": "4"
+      "gastoTotal": 551725.62,
+      "proposicoes": 4
   },
   {
       "ideCadastro": "141552",
@@ -76627,7 +76627,7 @@
       "gastoMenor": 0,
       "gastoMaior": 70376.59,
       "gastoTotal": 159456.47999999998,
-      "proposicoes": "1"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "209189",
@@ -76785,7 +76785,7 @@
       "gastoMenor": 0,
       "gastoMaior": 61936.94,
       "gastoTotal": 987950.98,
-      "proposicoes": "5"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "74574",
@@ -76936,14 +76936,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 6961.48
+              "valor": 8638.98
           }
       ],
-      "gastoMedio": 21582.855555555554,
+      "gastoMedio": 21644.985185185185,
       "gastoMenor": -2399.58,
       "gastoMaior": 39454.53,
-      "gastoTotal": 582737.1,
-      "proposicoes": "6"
+      "gastoTotal": 584414.6,
+      "proposicoes": 6
   },
   {
       "ideCadastro": "74200",
@@ -77101,7 +77101,7 @@
       "gastoMenor": 0,
       "gastoMaior": 68783.75,
       "gastoTotal": 781388.82,
-      "proposicoes": "8"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "188097",
@@ -77259,7 +77259,7 @@
       "gastoMenor": 0,
       "gastoMaior": 65367.71,
       "gastoTotal": 359008.22,
-      "proposicoes": "12"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "74212",
@@ -77417,7 +77417,7 @@
       "gastoMenor": 0,
       "gastoMaior": 55303.7,
       "gastoTotal": 332515.83999999997,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "178943",
@@ -77575,7 +77575,7 @@
       "gastoMenor": 0,
       "gastoMaior": 12336.78,
       "gastoTotal": 29955.89,
-      "proposicoes": "2"
+      "proposicoes": 2
   },
   {
       "ideCadastro": "212625",
@@ -77733,7 +77733,7 @@
       "gastoMenor": 0,
       "gastoMaior": 45127.29,
       "gastoTotal": 219078.68,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "213274",
@@ -77891,7 +77891,7 @@
       "gastoMenor": 0,
       "gastoMaior": 119097.25,
       "gastoTotal": 474939.1600000001,
-      "proposicoes": "13"
+      "proposicoes": 13
   },
   {
       "ideCadastro": "62881",
@@ -78049,7 +78049,7 @@
       "gastoMenor": 0,
       "gastoMaior": 51007.1,
       "gastoTotal": 239279.33000000002,
-      "proposicoes": "19"
+      "proposicoes": 20
   },
   {
       "ideCadastro": "213762",
@@ -78200,14 +78200,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 8240
+              "valor": 9332.15
           }
       ],
-      "gastoMedio": 24613.236363636363,
+      "gastoMedio": 24712.522727272728,
       "gastoMenor": 0,
       "gastoMaior": 35200.64,
-      "gastoTotal": 270745.6,
-      "proposicoes": "28"
+      "gastoTotal": 271837.75,
+      "proposicoes": 27
   },
   {
       "ideCadastro": "178825",
@@ -78365,7 +78365,7 @@
       "gastoMenor": 0,
       "gastoMaior": 51447.2,
       "gastoTotal": 211563.11000000002,
-      "proposicoes": "42"
+      "proposicoes": 43
   },
   {
       "ideCadastro": "74165",
@@ -78523,7 +78523,7 @@
       "gastoMenor": 0,
       "gastoMaior": 23659.89,
       "gastoTotal": 52439.41,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "178844",
@@ -78681,7 +78681,7 @@
       "gastoMenor": 0,
       "gastoMaior": 22000,
       "gastoTotal": 70312,
-      "proposicoes": "9"
+      "proposicoes": 8
   },
   {
       "ideCadastro": "215042",
@@ -78822,7 +78822,7 @@
           {
               "ano": 2021,
               "mes": 2,
-              "valor": 13216.89
+              "valor": 18176.15
           },
           {
               "ano": 2021,
@@ -78835,11 +78835,11 @@
               "valor": 17927.25
           }
       ],
-      "gastoMedio": 17214.0775,
+      "gastoMedio": 18453.8925,
       "gastoMenor": 0,
       "gastoMaior": 19563.69,
-      "gastoTotal": 68856.31,
-      "proposicoes": "0"
+      "gastoTotal": 73815.57,
+      "proposicoes": 0
   },
   {
       "ideCadastro": "92172",
@@ -78997,7 +78997,7 @@
       "gastoMenor": 0,
       "gastoMaior": 31022.45,
       "gastoTotal": 88640.79999999999,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "141372",
@@ -79155,7 +79155,7 @@
       "gastoMenor": 0,
       "gastoMaior": 42086.51,
       "gastoTotal": 141619.14,
-      "proposicoes": "3"
+      "proposicoes": 4
   },
   {
       "ideCadastro": "215043",
@@ -79313,7 +79313,7 @@
       "gastoMenor": 0,
       "gastoMaior": 17509.4,
       "gastoTotal": 43848.01,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "215044",
@@ -79471,7 +79471,7 @@
       "gastoMenor": 0,
       "gastoMaior": 9769.51,
       "gastoTotal": 28829.160000000003,
-      "proposicoes": "24"
+      "proposicoes": 23
   },
   {
       "ideCadastro": "215045",
@@ -79479,10 +79479,10 @@
       "nome": "PEDRO AUGUSTO PALARETI",
       "dias": 24,
       "sessoes": 30,
-      "faltasSessoes": 3,
-      "faltasDias": 2,
-      "presencaDias": 0.9166666666666666,
-      "presencaSessoes": 0.9,
+      "faltasSessoes": 0,
+      "faltasDias": 0,
+      "presencaDias": 1,
+      "presencaSessoes": 1,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215045.jpg",
       "siglaUf": "RJ",
       "siglaPartido": "PSD",
@@ -79629,7 +79629,7 @@
       "gastoMenor": 0,
       "gastoMaior": 29631.68,
       "gastoTotal": 78292.91,
-      "proposicoes": "3"
+      "proposicoes": 3
   },
   {
       "ideCadastro": "141515",
@@ -79787,7 +79787,7 @@
       "gastoMenor": 0,
       "gastoMaior": 35016.7,
       "gastoTotal": 98895.48999999999,
-      "proposicoes": "10"
+      "proposicoes": 11
   },
   {
       "ideCadastro": "178862",
@@ -79945,7 +79945,7 @@
       "gastoMenor": 0,
       "gastoMaior": 10329.75,
       "gastoTotal": 19663.09,
-      "proposicoes": "34"
+      "proposicoes": 35
   },
   {
       "ideCadastro": "122195",
@@ -80096,14 +80096,14 @@
           {
               "ano": 2021,
               "mes": 4,
-              "valor": 36321.98
+              "valor": 37521.98
           }
       ],
-      "gastoMedio": 36321.98,
+      "gastoMedio": 37521.98,
       "gastoMenor": 0,
-      "gastoMaior": 36321.98,
-      "gastoTotal": 36321.98,
-      "proposicoes": "2"
+      "gastoMaior": 37521.98,
+      "gastoTotal": 37521.98,
+      "proposicoes": 3
   },
   {
       "ideCadastro": "141478",
@@ -80261,7 +80261,7 @@
       "gastoMenor": 0,
       "gastoMaior": 714.18,
       "gastoTotal": 714.18,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "216313",
@@ -80419,18 +80419,18 @@
       "gastoMenor": 0,
       "gastoMaior": 0,
       "gastoTotal": 0,
-      "proposicoes": "6"
+      "proposicoes": 6
   },
   {
       "ideCadastro": "178868",
       "matricula": "582",
       "nome": "LUIZ ODORICO MONTEIRO DE ANDRADE",
-      "dias": 15,
-      "sessoes": 19,
-      "faltasSessoes": 1,
-      "faltasDias": 1,
-      "presencaDias": 0.9333333333333333,
-      "presencaSessoes": 0.9473684210526315,
+      "dias": 14,
+      "sessoes": 18,
+      "faltasSessoes": 0,
+      "faltasDias": 0,
+      "presencaDias": 1,
+      "presencaSessoes": 1,
       "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178868.jpg",
       "siglaUf": "CE",
       "siglaPartido": "PSB",
@@ -80577,7 +80577,7 @@
       "gastoMenor": -28.78,
       "gastoMaior": 13640.83,
       "gastoTotal": 13612.05,
-      "proposicoes": "10"
+      "proposicoes": 10
   },
   {
       "ideCadastro": "178935",
@@ -80735,7 +80735,7 @@
       "gastoMenor": 0,
       "gastoMaior": 0,
       "gastoTotal": 0,
-      "proposicoes": "0"
+      "proposicoes": 0
   },
   {
       "ideCadastro": "216544",
@@ -80893,7 +80893,7 @@
       "gastoMenor": 0,
       "gastoMaior": 0,
       "gastoTotal": 0,
-      "proposicoes": "1"
+      "proposicoes": 1
   },
   {
       "ideCadastro": "216545",
@@ -81051,6 +81051,6 @@
       "gastoMenor": 0,
       "gastoMaior": 0,
       "gastoTotal": 0,
-      "proposicoes": "2"
+      "proposicoes": 2
   }
 ]
