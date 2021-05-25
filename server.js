@@ -2,6 +2,7 @@ require('dotenv').config()
 const testsRouter = require('./routes/tests');
 const express = require('express');
 var cors = require('cors');
+require('./cron/cron.js');
 const app = express();
 
 app.use(cors())
