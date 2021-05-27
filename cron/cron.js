@@ -4,55 +4,71 @@ const date = require('date-and-time');
 const fetch = require('node-fetch');
 const { parseString } = require('xml2js');
 const testData = require('../testData/testingData.json')
+fs = require('fs');
 
 // Roda 1:01 AM todo dia
 cron.schedule('1 1 * * *', async () => {
   console.log('Entrei na cron!')
-  var lista
 
-  // Passo (0) - PARA TESTES
-  // lista = testData
-  // Passo (1) 316.562ms ; 272.014ms
-  lista = await getDeputadosAtuais()
-  // Passo (2) 1928087.145ms ; 2753788.204ms
-  lista = await addPresenca(lista)
-  // Passo (3) 1.394ms ; 1.162ms
-  lista = await compilePresenca(lista)
-  // Passo (4) 107161.711ms ; 103919.982ms
-  lista = await addInfo(lista)
-  // Passo (5) 2804803.560ms ; 3363125.625ms
-  lista = await getGastos(lista)
-  // Passo (6) 25.332ms ; 17.035ms
-  lista = await compileGastos(lista)
-  // Passo (7) 102623.380ms ; 149780.326ms
-  lista = await getProposicoes(lista)
-  // Passo (8)
-  var presencaData = buildPresencaPageData(lista)
-  await MongoDelete('depudados', 'pageData', { tag: "presenca" }).then(async () => {
-    await MongoAdd('depudados', 'pageData', [{ ...presencaData }])
-  })
-  // Passo (9)
-  var gastosData = buildGastosPageData(lista)
-  await MongoDelete('depudados', 'pageData', { tag: "gastos" }).then(async () => {
-    await MongoAdd('depudados', 'pageData', [{ ...gastosData }])
-  })
-  // Passo (10)
-  var proposicoesData = buildProposicoesPageData(lista)
-  await MongoDelete('depudados', 'pageData', { tag: "proposicoes" }).then(async () => {
-    await MongoAdd('depudados', 'pageData', [{ ...proposicoesData }])
-  })
-  // Passo (11)
-  var partidoData = buildPartidosPageData(presencaData.dados, gastosData.dados, proposicoesData.dados, lista)  //COM REDUNDANCIA
-  await MongoDelete('depudados', 'pageData', { tag: "partidos" }).then(async () => {
-    await MongoAdd('depudados', 'pageData', [{ ...partidoData }])
-  })
-  // Passo(12)
-  var deputadoData = buildDeputadosPageData(lista)
-  await MongoDelete('depudados', 'pageData', { tag: "deputados" }).then(async () => {
-    await MongoAdd('depudados', 'pageData', [{ ...deputadoData }])
-  })
+  try {
+    var lista
 
-  console.log('Atualizado!')
+    // Passo (0) - PARA TESTES
+    // lista = testData
+    // Passo (1) 316.562ms ; 272.014ms
+    console.log('1')
+    lista = await getDeputadosAtuais()
+    // Passo (2) 1928087.145ms ; 2753788.204ms
+    console.log('2')
+    lista = await addPresenca(lista)
+    // Passo (3) 1.394ms ; 1.162ms
+    console.log('3')
+    lista = await compilePresenca(lista)
+    // Passo (4) 107161.711ms ; 103919.982ms
+    console.log('4')
+    lista = await addInfo(lista)
+    // Passo (5) 2804803.560ms ; 3363125.625ms
+    console.log('5')
+    lista = await getGastos(lista)
+    // Passo (6) 25.332ms ; 17.035ms
+    console.log('6')
+    lista = await compileGastos(lista)
+    // Passo (7) 102623.380ms ; 149780.326ms
+    console.log('7')
+    lista = await getProposicoes(lista)
+
+    fs.writeFile('testing.json', lista)
+
+    // Passo (8)
+    var presencaData = buildPresencaPageData(lista)
+    await MongoDelete('depudados', 'pageData', { tag: "presenca" }).then(async () => {
+      await MongoAdd('depudados', 'pageData', [{ ...presencaData }])
+    })
+    // Passo (9)
+    var gastosData = buildGastosPageData(lista)
+    await MongoDelete('depudados', 'pageData', { tag: "gastos" }).then(async () => {
+      await MongoAdd('depudados', 'pageData', [{ ...gastosData }])
+    })
+    // Passo (10)
+    var proposicoesData = buildProposicoesPageData(lista)
+    await MongoDelete('depudados', 'pageData', { tag: "proposicoes" }).then(async () => {
+      await MongoAdd('depudados', 'pageData', [{ ...proposicoesData }])
+    })
+    // Passo (11)
+    var partidoData = buildPartidosPageData(presencaData.dados, gastosData.dados, proposicoesData.dados, lista)  //COM REDUNDANCIA
+    await MongoDelete('depudados', 'pageData', { tag: "partidos" }).then(async () => {
+      await MongoAdd('depudados', 'pageData', [{ ...partidoData }])
+    })
+    // Passo(12)
+    var deputadoData = buildDeputadosPageData(lista)
+    await MongoDelete('depudados', 'pageData', { tag: "deputados" }).then(async () => {
+      await MongoAdd('depudados', 'pageData', [{ ...deputadoData }])
+    })
+
+    console.log('Atualizado!')
+  } catch (error) {
+    console.log(error)
+  }
 })
 
 const getDeputadosAtuais = async () => {

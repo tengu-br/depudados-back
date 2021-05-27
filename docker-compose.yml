@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  back:
+    build: .
+    restart: always
+    container_name: depudados-back
+    ports:
+      - "4000:4000"
+    network_mode: host
